@@ -75,7 +75,7 @@ def empty_figure(net: gpd.GeoDataFrame, path: str | Path, titulo: str = "El mapa
     fig.text(0.05, 0.955, titulo, color=INK, fontsize=16, fontweight="bold")
     fig.text(0.05, 0.925, "Camiones que cruzan cada tramo sin carga de vuelta, sobre el total del tramo. Grosor: camiones por año.", color=MUTED, fontsize=9.5)
     handles = [Line2D([0], [0], color=c, lw=4) for _, c in ESCALA]
-    ax.legend(handles, [f"{u} % o más" for u, _ in ESCALA], loc="lower left", frameon=False, labelcolor=INK, fontsize=9, title="sin carga de vuelta", title_fontsize=9)
+    ax.legend(handles, [f"{u} % o más" for u, _ in ESCALA], loc="upper right", frameon=False, labelcolor=INK, fontsize=9, title="sin carga de vuelta", title_fontsize=9)
     plt.setp(ax.get_legend().get_title(), color=MUTED)
     fig.text(0.05, 0.02, "Fuente: Secretaría de Transporte, Matriz Origen-Destino vial 2018, red simplificada con asignación de camiones por sentido. vacio-lab.", color=MUTED, fontsize=7.5)
     fig.savefig(path, facecolor=BG, bbox_inches="tight")

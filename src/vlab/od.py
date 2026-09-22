@@ -161,3 +161,39 @@ def structural_empty(m: pd.DataFrame) -> dict:
 
 
 __all__ = ["ANIOS", "zones", "list_files", "parse_sheet", "read_workbook", "clean_name", "find_file", "asymmetry", "structural_empty"]
+
+def all_products(anio: int, zone_codes: list[str], unidad: str = "toneladas", raw: Path = DATA_RAW) -> dict[tuple[str, str], pd.DataFrame]:
+    """Todas las matrices de una edición, por (grupo, producto), sin las hojas de totales."""
+    out = {}
+    for f in list_files(anio, raw):
+        base = f.rsplit("/", 1)[-1]
+        es_camiones = "camion" in base.lower()
+        if (unidad == "camiones") != es_camiones:
+            continue
+        grupo = re.sub(r"^\d+\.?\d*\s*", "", base)
+        grupo = re.sub(r"(?i)matrices?|grupo|toneladas|camiones|x producto|\.xlsx?|\b20\d\d\b", " ", grupo)
+        grupo = re.sub(r"\s+", " ", grupo).strip().lower()
+        for producto, m in read_workbook(anio, f, zone_codes, raw).items():
+            if producto.startswith("total") or producto.startswith("grupo") or producto.startswith("hoja"):
+                continue
+            out[(grupo, producto)] = m
+    return out
+
+
+def zone_flows(matrices: dict[tuple[str, str], pd.DataFrame], zonas: list[str], sentido: str = "sale") -> pd.DataFrame:
+    """Qué entra o qué sale de un conjunto de zonas, por grupo, producto y contraparte, en la unidad de las matrices.
+
+    `sentido="sale"`: desde las zonas hacia el resto del país; `"entra"`: desde el resto hacia ellas.
+    Lo que se mueve entre las zonas del conjunto queda afuera: no es un corredor con el resto.
+    """
+    rows = []
+    for (grupo, producto), m in matrices.items():
+        otras = [c for c in m.index if c not in zonas]
+        bloque = m.loc[zonas, otras].sum(axis=0) if sentido == "sale" else m.loc[otras, zonas].sum(axis=1)
+        for z, v in bloque[bloque > 0].items():
+            rows.append({"grupo": grupo, "producto": producto, "contraparte": z, "t": float(v)})
+    return pd.DataFrame(rows, columns=["grupo", "producto", "contraparte", "t"]).sort_values("t", ascending=False).reset_index(drop=True)
+
+
+__all__ += ["all_products", "zone_flows"]
+
