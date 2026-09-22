@@ -31,7 +31,10 @@ def empty_map(net: gpd.GeoDataFrame, path: str | Path, zonas: pd.DataFrame | Non
 
     n = link_imbalance(net) if "vacio" not in net.columns else net
     n = n[n["total"] >= min_total].copy()
-    m = folium.Map(location=[-37.5, -64.5], zoom_start=5, tiles="CartoDB dark_matter", control_scale=True)
+    # fondo oscuro sin clave de API: el lienzo gris de Esri (los de Carto pasaron a pedir clave en 2026)
+    m = folium.Map(location=[-37.5, -64.5], zoom_start=5, tiles=None, control_scale=True)
+    folium.TileLayer(tiles="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+                     attr="Tiles &copy; Esri, HERE, Garmin, OpenStreetMap contributors", name="fondo", max_zoom=16, control=False).add_to(m)
     tmax = float(n["total"].max())
     for _, r in n.iterrows():
         w = 1.5 + 6.5 * np.sqrt(r["total"] / tmax)
