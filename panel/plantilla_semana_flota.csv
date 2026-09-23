@@ -1,0 +1,5 @@
+flota,vehiculo,equipo,fecha,origen,destino,ruta,km,cargado,producto,toneladas
+ejemplo,camion-01,tolva,2026-10-05,Bell Ville,Rosario,RN 9,240,1,maiz,30
+ejemplo,camion-01,tolva,2026-10-05,Rosario,Bell Ville,RN 9,240,0,,
+ejemplo,camion-02,batea,2026-10-06,Gualeguaychu,Anelo,RN 152,1400,1,arena de fractura,30
+ejemplo,camion-02,batea,2026-10-08,Anelo,Gualeguaychu,RN 152,1400,0,,

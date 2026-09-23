@@ -1,0 +1,57 @@
+# El observatorio se corre solo: una vez por mes trae los drivers y las fuentes nuevas,
+# rearma el vacío por tramo y por año, valida contra Vialidad y publica la página.
+# También se puede disparar a mano desde la pestaña Actions.
+name: observatorio
+
+on:
+  schedule:
+    - cron: "0 9 3 * *"        # el día 3 de cada mes a las 9:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  correr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Dependencias
+        run: python -m pip install -r requirements.txt
+
+      # las matrices y las capas pesan unos 400 MB y no cambian: se guardan entre corridas por mes
+      - name: Caché de datos crudos
+        uses: actions/cache@v4
+        with:
+          path: data/raw
+          key: raw-${{ hashFiles('scripts/download_data.py') }}-${{ github.run_id }}
+          restore-keys: |
+            raw-${{ hashFiles('scripts/download_data.py') }}-
+
+      - name: Bajar datos
+        run: python scripts/download_data.py
+
+      - name: Correr el observatorio
+        run: python scripts/observatorio.py --anios 2012-2026
+
+      - name: Armar la página
+        run: python scripts/build_page.py
+
+      - name: Publicar lo que cambió
+        run: |
+          git config user.name "observatorio"
+          git config user.email "observatorio@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "sin cambios"
+          else
+            git commit -m "Observatorio: corrida del $(date -u +%Y-%m-%d)"
+            git push
+          fi

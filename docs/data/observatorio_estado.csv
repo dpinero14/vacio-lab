@@ -1,0 +1,1657 @@
+anio,grupo,producto,tipo,fuente,factor_nacional
+2012,granos,sorgo,medido ambos,matriz origen-destino publicada,
+2012,granos,girasol,medido ambos,matriz origen-destino publicada,
+2012,granos,varios 1,medido ambos,matriz origen-destino publicada,
+2012,granos,arroz,medido ambos,matriz origen-destino publicada,
+2012,granos,cebada,medido ambos,matriz origen-destino publicada,
+2012,granos,maiz,medido ambos,matriz origen-destino publicada,
+2012,granos,soja,medido ambos,matriz origen-destino publicada,
+2012,granos,trigo,medido ambos,matriz origen-destino publicada,
+2012,granos,varios 2,medido ambos,matriz origen-destino publicada,
+2012,carnes,bovinos,medido ambos,matriz origen-destino publicada,
+2012,carnes,caprinos,medido ambos,matriz origen-destino publicada,
+2012,carnes,ovinos,medido ambos,matriz origen-destino publicada,
+2012,carnes,avicola,medido ambos,matriz origen-destino publicada,
+2012,carnes,porcino,medido ambos,matriz origen-destino publicada,
+2012,mineria,arena para construc.,medido ambos,matriz origen-destino publicada,
+2012,mineria,arena silicea,medido ambos,matriz origen-destino publicada,
+2012,mineria,canto rodado,medido ambos,matriz origen-destino publicada,
+2012,mineria,triturados petreos,medido ambos,matriz origen-destino publicada,
+2012,mineria,dolomita triturada,medido ambos,matriz origen-destino publicada,
+2012,mineria,carbon mineral,medido ambos,matriz origen-destino publicada,
+2012,mineria,turba,medido ambos,matriz origen-destino publicada,
+2012,mineria,amianto,medido ambos,matriz origen-destino publicada,
+2012,mineria,baritina,medido ambos,matriz origen-destino publicada,
+2012,mineria,cuarzo,medido ambos,matriz origen-destino publicada,
+2012,mineria,diatomita,medido ambos,matriz origen-destino publicada,
+2012,mineria,feldespato,medido ambos,matriz origen-destino publicada,
+2012,mineria,granulado volcanico,medido ambos,matriz origen-destino publicada,
+2012,mineria,mica,medido ambos,matriz origen-destino publicada,
+2012,mineria,perlita,medido ambos,matriz origen-destino publicada,
+2012,mineria,piedra pomez,medido ambos,matriz origen-destino publicada,
+2012,mineria,puzolana,medido ambos,matriz origen-destino publicada,
+2012,mineria,talco,medido ambos,matriz origen-destino publicada,
+2012,mineria,toba,medido ambos,matriz origen-destino publicada,
+2012,mineria,tosca,medido ambos,matriz origen-destino publicada,
+2012,mineria,vermiculita,medido ambos,matriz origen-destino publicada,
+2012,mineria,arcillas,medido ambos,matriz origen-destino publicada,
+2012,mineria,bentonita,medido ambos,matriz origen-destino publicada,
+2012,mineria,caolin,medido ambos,matriz origen-destino publicada,
+2012,mineria,pirofilita,medido ambos,matriz origen-destino publicada,
+2012,mineria,cadmio,medido ambos,matriz origen-destino publicada,
+2012,mineria,cinc,medido ambos,matriz origen-destino publicada,
+2012,mineria,mercurio,medido ambos,matriz origen-destino publicada,
+2012,mineria,plomo,medido ambos,matriz origen-destino publicada,
+2012,mineria,caliza,medido ambos,matriz origen-destino publicada,
+2012,mineria,conchilla,medido ambos,matriz origen-destino publicada,
+2012,mineria,yeso,medido ambos,matriz origen-destino publicada,
+2012,mineria,cuarcita,medido ambos,matriz origen-destino publicada,
+2012,mineria,dolomita,medido ambos,matriz origen-destino publicada,
+2012,mineria,granito,medido ambos,matriz origen-destino publicada,
+2012,mineria,marmol aragonita,medido ambos,matriz origen-destino publicada,
+2012,mineria,marmol,medido ambos,matriz origen-destino publicada,
+2012,mineria,marmol onix,medido ambos,matriz origen-destino publicada,
+2012,mineria,piedra laja,medido ambos,matriz origen-destino publicada,
+2012,mineria,porfido,medido ambos,matriz origen-destino publicada,
+2012,mineria,serpentina,medido ambos,matriz origen-destino publicada,
+2012,mineria,travertino,medido ambos,matriz origen-destino publicada,
+2012,mineria,sal comun,medido ambos,matriz origen-destino publicada,
+2012,mineria,sal de roca,medido ambos,matriz origen-destino publicada,
+2012,regionales,azucar,medido ambos,matriz origen-destino publicada,
+2012,regionales,ciruelas,medido ambos,matriz origen-destino publicada,
+2012,regionales,duraznos,medido ambos,matriz origen-destino publicada,
+2012,regionales,lana,medido ambos,matriz origen-destino publicada,
+2012,regionales,limon,medido ambos,matriz origen-destino publicada,
+2012,regionales,mandarina,medido ambos,matriz origen-destino publicada,
+2012,regionales,forestal,medido ambos,matriz origen-destino publicada,
+2012,regionales,naranjas,medido ambos,matriz origen-destino publicada,
+2012,regionales,papas,medido ambos,matriz origen-destino publicada,
+2012,regionales,peras y manzanas,medido ambos,matriz origen-destino publicada,
+2012,regionales,pomelo,medido ambos,matriz origen-destino publicada,
+2012,regionales,tabaco,medido ambos,matriz origen-destino publicada,
+2012,regionales,te,medido ambos,matriz origen-destino publicada,
+2012,regionales,yerba,medido ambos,matriz origen-destino publicada,
+2012,regionales,vinos y mostos,medido ambos,matriz origen-destino publicada,
+2012,regionales,pesca,medido ambos,matriz origen-destino publicada,
+2012,regionales,algodon,medido ambos,matriz origen-destino publicada,
+2012,industrializados,maquinaria agricola,medido ambos,matriz origen-destino publicada,
+2012,industrializados,vehiculos y autopartes,medido ambos,matriz origen-destino publicada,
+2012,industrializados,lacteos y derivados,medido ambos,matriz origen-destino publicada,
+2012,industrializados,harina y derivados,medido ambos,matriz origen-destino publicada,
+2012,industrializados,aceites y derivados,medido ambos,matriz origen-destino publicada,
+2012,industrializados,cigarrillos,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,acero,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,plastico,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,caucho,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,aluminio elab,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,papel,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,cemento,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,ind. maderera,medido ambos,matriz origen-destino publicada,
+2012,semiterminados,aluminio primario,medido ambos,matriz origen-destino publicada,
+2012,combustibles,combustibles,medido ambos,matriz origen-destino publicada,
+2012,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2013,carnes,bovinos,plano,,1.0
+2013,carnes,porcinos,plano,,1.0
+2013,carnes,ovinos,plano,,1.0
+2013,carnes,avicola,plano,,1.0
+2013,carnes,caprinos,plano,,1.0
+2013,combustibles,biodiesel,escenario driver,driver gasoil,1.0191949572499155
+2013,combustibles,bioetanol,escenario driver,driver nafta,0.9132681883007997
+2013,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.0821509133502005
+2013,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.8782615228013376
+2013,combustibles,gas,plano,,1.0
+2013,combustibles,lubricantes,escenario driver,driver gasoil,1.0191949572499155
+2013,combustibles,otros combust,escenario driver,driver gasoil,1.0191949572499155
+2013,ganado en pie,bovinos en pie,medido ambos,"SENASA, movimientos de bovinos entre departamentos",0.9820229531057594
+2013,ganado en pie,porcinos en pie,plano,,1.0
+2013,ganado en pie,ovinos en pie,plano,,1.0
+2013,ganado en pie,equinos en pie,plano,,1.0
+2013,ganado en pie,caprinos en pie,plano,,1.0
+2013,ganado en pie,bubalinos en pie,plano,,1.0
+2013,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.119070958478984
+2013,granos,cebada,escenario driver,driver cebada,1.0
+2013,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0798212019558182
+2013,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.8496465644444037
+2013,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4014022181977137
+2013,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",2.7623381418208006
+2013,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.4683569407408454
+2013,granos,varios 1,escenario driver,driver soja,1.2998762475775705
+2013,granos,varios 2,escenario driver,driver maiz,0.7373225540659667
+2013,granos,varios 3,escenario driver,driver trigo,0.4333608650373191
+2013,industrializados,aceites,escenario driver,driver soja,1.29987624757757
+2013,industrializados,cigarrillos,escenario driver,driver ipi,1.0
+2013,industrializados,electronica,escenario driver,driver ipi,1.0
+2013,industrializados,fertilizantes,escenario driver,driver soja,1.2998762475775705
+2013,industrializados,harina,escenario driver,driver trigo,0.43336086503731897
+2013,industrializados,lacteos,escenario driver,driver ipi,1.0
+2013,industrializados,maq. agricola,escenario driver,driver ipi,1.0
+2013,industrializados,motos,escenario driver,driver automotriz,1.289062754901219
+2013,industrializados,vehiculos,escenario driver,driver automotriz,1.2890627549012188
+2013,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2013,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2013,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.9755860340717026
+2013,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2013,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2013,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2013,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2013,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.9755860340717029
+2013,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,0.11229417930908524
+2013,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.9755860340717029
+2013,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2013,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.9755860340717026
+2013,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2013,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2013,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2013,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2013,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.9921435289738803
+2013,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.9755860340717027
+2013,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.9755860340717029
+2013,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2013,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2013,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2013,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2013,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2013,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2013,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2013,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2013,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2013,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2013,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2013,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2013,mineria turba,turba,plano,,1.0
+2013,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0200113880963282
+2013,regionales,azucar,escenario driver,driver azucar,1.0
+2013,regionales,ciruelas,plano,,1.0
+2013,regionales,carbon vegetal,plano,,1.0
+2013,regionales,durazno,plano,,1.0
+2013,regionales,forestal,plano,,1.0
+2013,regionales,lana,plano,,1.0
+2013,regionales,limon,escenario driver,driver limon,1.0
+2013,regionales,mandarina,escenario driver,driver mandarina,1.0
+2013,regionales,miel,plano,,1.0
+2013,regionales,naranja,escenario driver,driver naranja,1.0
+2013,regionales,papas,escenario driver,driver papas,1.0
+2013,regionales,peras y manzanas,plano,,1.0
+2013,regionales,pesca,plano,,1.0
+2013,regionales,pomelo,escenario driver,driver pomelo,1.0
+2013,regionales,tabaco,plano,,1.0
+2013,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0306565582695957
+2013,regionales,vinos y mostos,plano,,1.0
+2013,regionales,yerba,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.856577665136966
+2013,semiterminados,acero,escenario driver,driver siderurgia,1.0
+2013,semiterminados,alum. elab.,escenario driver,driver ipi,1.0
+2013,semiterminados,aluminio primario,escenario driver,driver ipi,1.0
+2013,semiterminados,cemento,escenario driver,driver cemento,0.9921435289738805
+2013,semiterminados,caucho,escenario driver,driver ipi,1.0
+2013,semiterminados,ind. maderera,escenario driver,driver isac,0.9755860340717026
+2013,semiterminados,papel,escenario driver,driver ipi,1.0
+2013,semiterminados,plastico,escenario driver,driver ipi,1.0
+2013,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2014,granos,girasol,medido ambos,matriz origen-destino publicada,
+2014,granos,varios 1,medido ambos,matriz origen-destino publicada,
+2014,granos,arroz,medido ambos,matriz origen-destino publicada,
+2014,granos,cebada,medido ambos,matriz origen-destino publicada,
+2014,granos,maiz,medido ambos,matriz origen-destino publicada,
+2014,granos,soja,medido ambos,matriz origen-destino publicada,
+2014,granos,trigo,medido ambos,matriz origen-destino publicada,
+2014,granos,varios 2,medido ambos,matriz origen-destino publicada,
+2014,granos,sorgo,medido ambos,matriz origen-destino publicada,
+2014,granos,varios 3,medido ambos,matriz origen-destino publicada,
+2014,carnes,avicola,medido ambos,matriz origen-destino publicada,
+2014,carnes,bovinos,medido ambos,matriz origen-destino publicada,
+2014,carnes,caprinos,medido ambos,matriz origen-destino publicada,
+2014,carnes,ovinos,medido ambos,matriz origen-destino publicada,
+2014,carnes,porcinos,medido ambos,matriz origen-destino publicada,
+2014,mineria,cuarzo,medido ambos,matriz origen-destino publicada,
+2014,mineria,diatomita,medido ambos,matriz origen-destino publicada,
+2014,mineria,esq. bituminoso,medido ambos,matriz origen-destino publicada,
+2014,mineria,feldespato,medido ambos,matriz origen-destino publicada,
+2014,mineria,grafito,medido ambos,matriz origen-destino publicada,
+2014,mineria,granul. volcanico,medido ambos,matriz origen-destino publicada,
+2014,mineria,mica,medido ambos,matriz origen-destino publicada,
+2014,mineria,perlita,medido ambos,matriz origen-destino publicada,
+2014,mineria,piedra pómez,medido ambos,matriz origen-destino publicada,
+2014,mineria,puzolana,medido ambos,matriz origen-destino publicada,
+2014,mineria,talco,medido ambos,matriz origen-destino publicada,
+2014,mineria,toba,medido ambos,matriz origen-destino publicada,
+2014,mineria,tosca,medido ambos,matriz origen-destino publicada,
+2014,mineria,vermiculita,medido ambos,matriz origen-destino publicada,
+2014,mineria,zeolita,medido ambos,matriz origen-destino publicada,
+2014,mineria,arcillas,medido ambos,matriz origen-destino publicada,
+2014,mineria,bentonita,medido ambos,matriz origen-destino publicada,
+2014,mineria,caolin,medido ambos,matriz origen-destino publicada,
+2014,mineria,pirofilita,medido ambos,matriz origen-destino publicada,
+2014,mineria,arena contruccion,medido ambos,matriz origen-destino publicada,
+2014,mineria,arena silicea,medido ambos,matriz origen-destino publicada,
+2014,mineria,canto rodado,medido ambos,matriz origen-destino publicada,
+2014,mineria,dolomita tritur.,medido ambos,matriz origen-destino publicada,
+2014,mineria,triturado petreos,medido ambos,matriz origen-destino publicada,
+2014,mineria,carbón mineral,medido ambos,matriz origen-destino publicada,
+2014,mineria,turba,medido ambos,matriz origen-destino publicada,
+2014,mineria,cadmio,medido ambos,matriz origen-destino publicada,
+2014,mineria,cinc,medido ambos,matriz origen-destino publicada,
+2014,mineria,mercurio,medido ambos,matriz origen-destino publicada,
+2014,mineria,plomo,medido ambos,matriz origen-destino publicada,
+2014,mineria,asfaltita,medido ambos,matriz origen-destino publicada,
+2014,mineria,baritina,medido ambos,matriz origen-destino publicada,
+2014,mineria,boratos,medido ambos,matriz origen-destino publicada,
+2014,mineria,calcita,medido ambos,matriz origen-destino publicada,
+2014,mineria,celestina,medido ambos,matriz origen-destino publicada,
+2014,mineria,fluorita,medido ambos,matriz origen-destino publicada,
+2014,mineria,laterita,medido ambos,matriz origen-destino publicada,
+2014,mineria,litio,medido ambos,matriz origen-destino publicada,
+2014,mineria,sulfato de magne.,medido ambos,matriz origen-destino publicada,
+2014,mineria,caliza,medido ambos,matriz origen-destino publicada,
+2014,mineria,conchilla,medido ambos,matriz origen-destino publicada,
+2014,mineria,yeso,medido ambos,matriz origen-destino publicada,
+2014,mineria,arenisca,medido ambos,matriz origen-destino publicada,
+2014,mineria,basalto,medido ambos,matriz origen-destino publicada,
+2014,mineria,cuarcita,medido ambos,matriz origen-destino publicada,
+2014,mineria,dolomita,medido ambos,matriz origen-destino publicada,
+2014,mineria,granito,medido ambos,matriz origen-destino publicada,
+2014,mineria,mármol aragonita,medido ambos,matriz origen-destino publicada,
+2014,mineria,mármol,medido ambos,matriz origen-destino publicada,
+2014,mineria,mármol onix,medido ambos,matriz origen-destino publicada,
+2014,mineria,piedra laja,medido ambos,matriz origen-destino publicada,
+2014,mineria,porfido,medido ambos,matriz origen-destino publicada,
+2014,mineria,serpentina,medido ambos,matriz origen-destino publicada,
+2014,mineria,travertino,medido ambos,matriz origen-destino publicada,
+2014,mineria,sal común,medido ambos,matriz origen-destino publicada,
+2014,mineria,sal de roca,medido ambos,matriz origen-destino publicada,
+2014,mineria,mineral de hierro,medido ambos,matriz origen-destino publicada,
+2014,regionales,limón,medido ambos,matriz origen-destino publicada,
+2014,regionales,mandarina,medido ambos,matriz origen-destino publicada,
+2014,regionales,naranja,medido ambos,matriz origen-destino publicada,
+2014,regionales,pomelo,medido ambos,matriz origen-destino publicada,
+2014,regionales,ciruelas,medido ambos,matriz origen-destino publicada,
+2014,regionales,durazno,medido ambos,matriz origen-destino publicada,
+2014,regionales,peras y manzanas,medido ambos,matriz origen-destino publicada,
+2014,regionales,papas,medido ambos,matriz origen-destino publicada,
+2014,regionales,té,medido ambos,matriz origen-destino publicada,
+2014,regionales,yerba,medido ambos,matriz origen-destino publicada,
+2014,regionales,pesca,medido ambos,matriz origen-destino publicada,
+2014,regionales,forestal,medido ambos,matriz origen-destino publicada,
+2014,regionales,tabaco,medido ambos,matriz origen-destino publicada,
+2014,regionales,lana,medido ambos,matriz origen-destino publicada,
+2014,regionales,vinos y mostos,medido ambos,matriz origen-destino publicada,
+2014,regionales,azúcar,medido ambos,matriz origen-destino publicada,
+2014,regionales,algodón,medido ambos,matriz origen-destino publicada,
+2014,industrializados,maq. agricola,medido ambos,matriz origen-destino publicada,
+2014,industrializados,electronica,medido ambos,matriz origen-destino publicada,
+2014,industrializados,vehiculos,medido ambos,matriz origen-destino publicada,
+2014,industrializados,lacteos,medido ambos,matriz origen-destino publicada,
+2014,industrializados,harinas,medido ambos,matriz origen-destino publicada,
+2014,industrializados,aceite,medido ambos,matriz origen-destino publicada,
+2014,industrializados,fertilizantes,medido ambos,matriz origen-destino publicada,
+2014,industrializados,cigarrillos,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,plástico,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,caucho,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,aluminio primario,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,aluminio elab.,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,papel,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,acero,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,cemento,medido ambos,matriz origen-destino publicada,
+2014,semiterminados,ind. maderera,medido ambos,matriz origen-destino publicada,
+2014,matriz combustibles,combustibles,medido ambos,matriz origen-destino publicada,
+2014,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2015,carnes,bovinos,plano,,1.0
+2015,carnes,porcinos,plano,,1.0
+2015,carnes,ovinos,plano,,1.0
+2015,carnes,avicola,plano,,1.0
+2015,carnes,caprinos,plano,,1.0
+2015,combustibles,biodiesel,escenario driver,driver gasoil,0.9943715918541174
+2015,combustibles,bioetanol,escenario driver,driver nafta,0.9236551370004747
+2015,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.059477160849116
+2015,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.9307913669879765
+2015,combustibles,gas,plano,,1.0
+2015,combustibles,lubricantes,escenario driver,driver gasoil,0.9943715918541172
+2015,combustibles,otros combust,escenario driver,driver gasoil,0.994371591854117
+2015,ganado en pie,bovinos en pie,medido ambos,"SENASA, movimientos de bovinos entre departamentos",0.9249724708913951
+2015,ganado en pie,porcinos en pie,plano,,1.0
+2015,ganado en pie,ovinos en pie,plano,,1.0
+2015,ganado en pie,equinos en pie,plano,,1.0
+2015,ganado en pie,caprinos en pie,plano,,1.0
+2015,ganado en pie,bubalinos en pie,plano,,1.0
+2015,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1857032190260248
+2015,granos,cebada,escenario driver,driver cebada,1.0
+2015,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9753238836511013
+2015,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.8547728991450825
+2015,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.7022406969216488
+2015,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",2.1035215257838416
+2015,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.8053544094817556
+2015,granos,varios 1,escenario driver,driver soja,1.6248979679656925
+2015,granos,varios 2,escenario driver,driver maiz,0.778086550965074
+2015,granos,varios 3,escenario driver,driver trigo,0.7522434468649364
+2015,industrializados,aceites,escenario driver,driver soja,1.6248979679656923
+2015,industrializados,cigarrillos,escenario driver,driver ipi,1.0
+2015,industrializados,electronica,escenario driver,driver ipi,1.0
+2015,industrializados,fertilizantes,escenario driver,driver soja,1.624897967965693
+2015,industrializados,harina,escenario driver,driver trigo,0.7522434468649364
+2015,industrializados,lacteos,escenario driver,driver ipi,1.0
+2015,industrializados,maq. agricola,escenario driver,driver ipi,1.0
+2015,industrializados,motos,escenario driver,driver automotriz,0.8427885559895842
+2015,industrializados,vehiculos,escenario driver,driver automotriz,0.8427885559895841
+2015,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2015,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2015,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,1.0179820745811339
+2015,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2015,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2015,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2015,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2015,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,1.017982074581134
+2015,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,0.27741056849308754
+2015,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,1.0179820745811339
+2015,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2015,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,1.0179820745811339
+2015,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2015,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2015,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2015,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2015,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,1.149051640453281
+2015,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,1.017982074581134
+2015,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,1.017982074581134
+2015,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2015,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2015,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2015,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2015,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2015,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2015,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2015,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2015,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2015,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2015,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2015,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2015,mineria turba,turba,plano,,1.0
+2015,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.168375937701949
+2015,regionales,azucar,escenario driver,driver azucar,1.0
+2015,regionales,ciruelas,plano,,1.0
+2015,regionales,carbon vegetal,plano,,1.0
+2015,regionales,durazno,plano,,1.0
+2015,regionales,forestal,plano,,1.0
+2015,regionales,lana,plano,,1.0
+2015,regionales,limon,escenario driver,driver limon,1.0
+2015,regionales,mandarina,escenario driver,driver mandarina,1.0
+2015,regionales,miel,plano,,1.0
+2015,regionales,naranja,escenario driver,driver naranja,1.0
+2015,regionales,papas,escenario driver,driver papas,1.0
+2015,regionales,peras y manzanas,plano,,1.0
+2015,regionales,pesca,plano,,1.0
+2015,regionales,pomelo,escenario driver,driver pomelo,1.0
+2015,regionales,tabaco,plano,,1.0
+2015,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.003343932668803
+2015,regionales,vinos y mostos,plano,,1.0
+2015,regionales,yerba,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9966119431709161
+2015,semiterminados,acero,escenario driver,driver siderurgia,1.0
+2015,semiterminados,alum. elab.,escenario driver,driver ipi,1.0
+2015,semiterminados,aluminio primario,escenario driver,driver ipi,1.0
+2015,semiterminados,cemento,escenario driver,driver cemento,1.1490516404532811
+2015,semiterminados,caucho,escenario driver,driver ipi,1.0
+2015,semiterminados,ind. maderera,escenario driver,driver isac,1.0179820745811343
+2015,semiterminados,papel,escenario driver,driver ipi,1.0
+2015,semiterminados,plastico,escenario driver,driver ipi,1.0
+2015,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2016,carnes,bovinos,medido ambos,matriz origen-destino publicada,
+2016,carnes,avicola,medido ambos,matriz origen-destino publicada,
+2016,carnes,porcinos,medido ambos,matriz origen-destino publicada,
+2016,carnes,ovinos,medido ambos,matriz origen-destino publicada,
+2016,carnes,caprinos,medido ambos,matriz origen-destino publicada,
+2016,ganado en pie,bovinos en pie,medido ambos,matriz origen-destino publicada,
+2016,ganado en pie,ovinos en pie,medido ambos,matriz origen-destino publicada,
+2016,ganado en pie,porcinos en pie,medido ambos,matriz origen-destino publicada,
+2016,ganado en pie,caprinos en pie,medido ambos,matriz origen-destino publicada,
+2016,ganado en pie,equinos en pie,medido ambos,matriz origen-destino publicada,
+2016,ganado en pie,bubalinos en pie,medido ambos,matriz origen-destino publicada,
+2016,granos,arroz,medido ambos,matriz origen-destino publicada,
+2016,granos,cebada,medido ambos,matriz origen-destino publicada,
+2016,granos,girasol,medido ambos,matriz origen-destino publicada,
+2016,granos,maiz,medido ambos,matriz origen-destino publicada,
+2016,granos,soja,medido ambos,matriz origen-destino publicada,
+2016,granos,trigo,medido ambos,matriz origen-destino publicada,
+2016,granos,sorgo,medido ambos,matriz origen-destino publicada,
+2016,granos,varios 1,medido ambos,matriz origen-destino publicada,
+2016,granos,varios 2,medido ambos,matriz origen-destino publicada,
+2016,granos,varios 3,medido ambos,matriz origen-destino publicada,
+2016,regionales,algodon,medido ambos,matriz origen-destino publicada,
+2016,regionales,azucar,medido ambos,matriz origen-destino publicada,
+2016,regionales,carbon vegetal,medido ambos,matriz origen-destino publicada,
+2016,regionales,ciruelas,medido ambos,matriz origen-destino publicada,
+2016,regionales,durazno,medido ambos,matriz origen-destino publicada,
+2016,regionales,forestal,medido ambos,matriz origen-destino publicada,
+2016,regionales,lana,medido ambos,matriz origen-destino publicada,
+2016,regionales,limon,medido ambos,matriz origen-destino publicada,
+2016,regionales,mandarina,medido ambos,matriz origen-destino publicada,
+2016,regionales,miel,medido ambos,matriz origen-destino publicada,
+2016,regionales,naranja,medido ambos,matriz origen-destino publicada,
+2016,regionales,papas,medido ambos,matriz origen-destino publicada,
+2016,regionales,peras y manzanas,medido ambos,matriz origen-destino publicada,
+2016,regionales,pescado,medido ambos,matriz origen-destino publicada,
+2016,regionales,pomelo,medido ambos,matriz origen-destino publicada,
+2016,regionales,tabaco,medido ambos,matriz origen-destino publicada,
+2016,regionales,té,medido ambos,matriz origen-destino publicada,
+2016,regionales,vinos y mostos,medido ambos,matriz origen-destino publicada,
+2016,regionales,yerba,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,acero,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,alum. elab.,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,aluminio primario,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,caucho,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,cemento,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,ind. maderera,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,papel,medido ambos,matriz origen-destino publicada,
+2016,semiterminados,plastico,medido ambos,matriz origen-destino publicada,
+2016,industrializados,aceite,medido ambos,matriz origen-destino publicada,
+2016,industrializados,cigarrillos,medido ambos,matriz origen-destino publicada,
+2016,industrializados,electronica,medido ambos,matriz origen-destino publicada,
+2016,industrializados,fertilizantes,medido ambos,matriz origen-destino publicada,
+2016,industrializados,harina,medido ambos,matriz origen-destino publicada,
+2016,industrializados,lacteos,medido ambos,matriz origen-destino publicada,
+2016,industrializados,maq. agricola,medido ambos,matriz origen-destino publicada,
+2016,industrializados,motos,medido ambos,matriz origen-destino publicada,
+2016,industrializados,vehiculos,medido ambos,matriz origen-destino publicada,
+2016,mineria,arcillas,medido ambos,matriz origen-destino publicada,
+2016,mineria,bentonita,medido ambos,matriz origen-destino publicada,
+2016,mineria,caolin,medido ambos,matriz origen-destino publicada,
+2016,mineria,pirofilita,medido ambos,matriz origen-destino publicada,
+2016,mineria,arena constr.,medido ambos,matriz origen-destino publicada,
+2016,mineria,arena silicea,medido ambos,matriz origen-destino publicada,
+2016,mineria,canto rodado,medido ambos,matriz origen-destino publicada,
+2016,mineria,dolomita trit.,medido ambos,matriz origen-destino publicada,
+2016,mineria,trit. petreos,medido ambos,matriz origen-destino publicada,
+2016,mineria,caliza,medido ambos,matriz origen-destino publicada,
+2016,mineria,conchilla,medido ambos,matriz origen-destino publicada,
+2016,mineria,yeso,medido ambos,matriz origen-destino publicada,
+2016,mineria,carbon mineral,medido ambos,matriz origen-destino publicada,
+2016,mineria,turba,medido ambos,matriz origen-destino publicada,
+2016,mineria,cuarzo,medido ambos,matriz origen-destino publicada,
+2016,mineria,diatomita,medido ambos,matriz origen-destino publicada,
+2016,mineria,feldespato,medido ambos,matriz origen-destino publicada,
+2016,mineria,mica,medido ambos,matriz origen-destino publicada,
+2016,mineria,perlita,medido ambos,matriz origen-destino publicada,
+2016,mineria,piedra pomez,medido ambos,matriz origen-destino publicada,
+2016,mineria,puzolana,medido ambos,matriz origen-destino publicada,
+2016,mineria,talco,medido ambos,matriz origen-destino publicada,
+2016,mineria,toba,medido ambos,matriz origen-destino publicada,
+2016,mineria,tosca,medido ambos,matriz origen-destino publicada,
+2016,mineria,vermiculita,medido ambos,matriz origen-destino publicada,
+2016,mineria,zeolita,medido ambos,matriz origen-destino publicada,
+2016,mineria,cinc,medido ambos,matriz origen-destino publicada,
+2016,mineria,molibdeno,medido ambos,matriz origen-destino publicada,
+2016,mineria,plomo,medido ambos,matriz origen-destino publicada,
+2016,mineria,asfaltita,medido ambos,matriz origen-destino publicada,
+2016,mineria,baritina,medido ambos,matriz origen-destino publicada,
+2016,mineria,boratos,medido ambos,matriz origen-destino publicada,
+2016,mineria,calcita,medido ambos,matriz origen-destino publicada,
+2016,mineria,fluorita,medido ambos,matriz origen-destino publicada,
+2016,mineria,litio,medido ambos,matriz origen-destino publicada,
+2016,mineria,sulfato de mag.,medido ambos,matriz origen-destino publicada,
+2016,mineria,arenisca,medido ambos,matriz origen-destino publicada,
+2016,mineria,basalto,medido ambos,matriz origen-destino publicada,
+2016,mineria,cuarcita,medido ambos,matriz origen-destino publicada,
+2016,mineria,granito,medido ambos,matriz origen-destino publicada,
+2016,mineria,marmol,medido ambos,matriz origen-destino publicada,
+2016,mineria,marmol onix,medido ambos,matriz origen-destino publicada,
+2016,mineria,piedra laja,medido ambos,matriz origen-destino publicada,
+2016,mineria,porfido,medido ambos,matriz origen-destino publicada,
+2016,mineria,serpentina,medido ambos,matriz origen-destino publicada,
+2016,mineria,travertino,medido ambos,matriz origen-destino publicada,
+2016,mineria,sal comun,medido ambos,matriz origen-destino publicada,
+2016,mineria,sal de roca,medido ambos,matriz origen-destino publicada,
+2016,mineria,mineral de hierro,medido ambos,matriz origen-destino publicada,
+2016,combustibles,biodiesel,medido ambos,matriz origen-destino publicada,
+2016,combustibles,bioetanol,medido ambos,matriz origen-destino publicada,
+2016,combustibles,diesel,medido ambos,matriz origen-destino publicada,
+2016,combustibles,gas,medido ambos,matriz origen-destino publicada,
+2016,combustibles,nafta,medido ambos,matriz origen-destino publicada,
+2016,combustibles,lubricantes,medido ambos,matriz origen-destino publicada,
+2016,combustibles,otros combust,medido ambos,matriz origen-destino publicada,
+2016,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2017,carnes,bovinos,plano,,1.0
+2017,carnes,porcinos,plano,,1.0
+2017,carnes,ovinos,plano,,1.0
+2017,carnes,avicola,plano,,1.0
+2017,carnes,caprinos,plano,,1.0
+2017,combustibles,biodiesel,escenario driver,driver gasoil,1.016796225095758
+2017,combustibles,bioetanol,escenario driver,driver nafta,0.957934334757389
+2017,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.0301192989410484
+2017,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.9978964942862454
+2017,combustibles,gas,plano,,1.0
+2017,combustibles,lubricantes,escenario driver,driver gasoil,1.0167962250957578
+2017,combustibles,otros combust,escenario driver,driver gasoil,1.016796225095758
+2017,ganado en pie,bovinos en pie,medido ambos,"SENASA, movimientos de bovinos entre departamentos",0.9611111741044809
+2017,ganado en pie,porcinos en pie,plano,,1.0
+2017,ganado en pie,ovinos en pie,plano,,1.0
+2017,ganado en pie,equinos en pie,plano,,1.0
+2017,ganado en pie,caprinos en pie,plano,,1.0
+2017,ganado en pie,bubalinos en pie,plano,,1.0
+2017,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0341838651291837
+2017,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0989573139932989
+2017,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.025108745384808
+2017,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.221871239593256
+2017,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.5078315763779053
+2017,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",2.200324774137739
+2017,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0345574957183652
+2017,granos,varios 1,escenario driver,driver soja,1.4548417986410658
+2017,granos,varios 2,escenario driver,driver maiz,1.138694910532049
+2017,granos,varios 3,escenario driver,driver trigo,0.9933611242439473
+2017,industrializados,aceites,escenario driver,driver soja,1.454841798641065
+2017,industrializados,cigarrillos,escenario driver,driver ipi,1.0522637255850915
+2017,industrializados,electronica,escenario driver,driver ipi,1.0522637255850915
+2017,industrializados,fertilizantes,escenario driver,driver soja,1.454841798641066
+2017,industrializados,harina,escenario driver,driver trigo,0.9933611242439471
+2017,industrializados,lacteos,escenario driver,driver ipi,1.0522637255850915
+2017,industrializados,maq. agricola,escenario driver,driver ipi,1.0522637255850917
+2017,industrializados,motos,escenario driver,driver automotriz,0.9501002770548466
+2017,industrializados,vehiculos,escenario driver,driver automotriz,0.9501002770548465
+2017,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2017,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2017,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.9924868704288934
+2017,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2017,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2017,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2017,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2017,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.9924868704288935
+2017,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,0.6470015888536959
+2017,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.9924868704288933
+2017,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2017,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.9924868704288934
+2017,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2017,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2017,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2017,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2017,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,1.0934376839002702
+2017,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.9924868704288934
+2017,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.9924868704288935
+2017,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2017,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2017,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2017,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2017,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2017,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2017,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2017,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2017,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2017,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2017,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2017,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2017,mineria turba,turba,plano,,1.0
+2017,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.7331387186542779
+2017,regionales,azucar,escenario driver,driver azucar,1.0
+2017,regionales,ciruelas,plano,,1.0
+2017,regionales,carbon vegetal,plano,,1.0
+2017,regionales,durazno,plano,,1.0
+2017,regionales,forestal,plano,,1.0
+2017,regionales,lana,plano,,1.0
+2017,regionales,limon,escenario driver,driver limon,1.0
+2017,regionales,mandarina,escenario driver,driver mandarina,1.0
+2017,regionales,miel,plano,,1.0
+2017,regionales,naranja,escenario driver,driver naranja,1.0
+2017,regionales,papas,escenario driver,driver papas,1.0
+2017,regionales,peras y manzanas,plano,,1.0
+2017,regionales,pesca,plano,,1.0
+2017,regionales,pomelo,escenario driver,driver pomelo,1.0
+2017,regionales,tabaco,plano,,1.0
+2017,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9924854422036068
+2017,regionales,vinos y mostos,plano,,1.0
+2017,regionales,yerba,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.848676391827497
+2017,semiterminados,acero,escenario driver,driver siderurgia,0.9857235555037217
+2017,semiterminados,alum. elab.,escenario driver,driver ipi,1.0522637255850915
+2017,semiterminados,aluminio primario,escenario driver,driver ipi,1.0522637255850915
+2017,semiterminados,cemento,escenario driver,driver cemento,1.0934376839002702
+2017,semiterminados,caucho,escenario driver,driver ipi,1.0522637255850913
+2017,semiterminados,ind. maderera,escenario driver,driver isac,0.9924868704288934
+2017,semiterminados,papel,escenario driver,driver ipi,1.0522637255850913
+2017,semiterminados,plastico,escenario driver,driver ipi,1.0522637255850915
+2017,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2018,carnes,bovinos,medido ambos,matriz origen-destino publicada,
+2018,carnes,porcinos,medido ambos,matriz origen-destino publicada,
+2018,carnes,ovinos,medido ambos,matriz origen-destino publicada,
+2018,carnes,avicola,medido ambos,matriz origen-destino publicada,
+2018,carnes,caprinos,medido ambos,matriz origen-destino publicada,
+2018,combustibles,biodiesel,medido ambos,matriz origen-destino publicada,
+2018,combustibles,bioetanol,medido ambos,matriz origen-destino publicada,
+2018,combustibles,diesel,medido ambos,matriz origen-destino publicada,
+2018,combustibles,nafta,medido ambos,matriz origen-destino publicada,
+2018,combustibles,gas,medido ambos,matriz origen-destino publicada,
+2018,combustibles,lubricantes,medido ambos,matriz origen-destino publicada,
+2018,combustibles,otros combust,medido ambos,matriz origen-destino publicada,
+2018,ganado en pie,bovinos en pie,medido ambos,matriz origen-destino publicada,
+2018,ganado en pie,porcinos en pie,medido ambos,matriz origen-destino publicada,
+2018,ganado en pie,ovinos en pie,medido ambos,matriz origen-destino publicada,
+2018,ganado en pie,equinos en pie,medido ambos,matriz origen-destino publicada,
+2018,ganado en pie,caprinos en pie,medido ambos,matriz origen-destino publicada,
+2018,ganado en pie,bubalinos en pie,medido ambos,matriz origen-destino publicada,
+2018,granos,arroz,medido ambos,matriz origen-destino publicada,
+2018,granos,cebada,medido ambos,matriz origen-destino publicada,
+2018,granos,girasol,medido ambos,matriz origen-destino publicada,
+2018,granos,maiz,medido ambos,matriz origen-destino publicada,
+2018,granos,soja,medido ambos,matriz origen-destino publicada,
+2018,granos,sorgo,medido ambos,matriz origen-destino publicada,
+2018,granos,trigo,medido ambos,matriz origen-destino publicada,
+2018,granos,varios 1,medido ambos,matriz origen-destino publicada,
+2018,granos,varios 2,medido ambos,matriz origen-destino publicada,
+2018,granos,varios 3,medido ambos,matriz origen-destino publicada,
+2018,industrializados,aceites,medido ambos,matriz origen-destino publicada,
+2018,industrializados,cigarrillos,medido ambos,matriz origen-destino publicada,
+2018,industrializados,electronica,medido ambos,matriz origen-destino publicada,
+2018,industrializados,fertilizantes,medido ambos,matriz origen-destino publicada,
+2018,industrializados,harina,medido ambos,matriz origen-destino publicada,
+2018,industrializados,lacteos,medido ambos,matriz origen-destino publicada,
+2018,industrializados,maq. agricola,medido ambos,matriz origen-destino publicada,
+2018,industrializados,motos,medido ambos,matriz origen-destino publicada,
+2018,industrializados,vehiculos,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,cuarzo camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,diatomita camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,feldespato camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,granulado vol. camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,perlita camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,piedra pomez camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,puzolana camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,talco camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,toba camion,medido ambos,matriz origen-destino publicada,
+2018,mineria explotacion de minas y canteras ncp,tosca camion,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de arcillas y caolin,arcillas,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de arcillas y caolin,bentonita,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de arcillas y caolin,caolin,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de arcillas y caolin,pirofilita,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,medido ambos,matriz origen-destino publicada,
+2018,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,medido ambos,matriz origen-destino publicada,
+2018,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,medido ambos,matriz origen-destino publicada,
+2018,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,medido ambos,matriz origen-destino publicada,
+2018,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,medido ambos,matriz origen-destino publicada,
+2018,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de minerales metaliferos no ferrosos,cadmio,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de minerales metaliferos no ferrosos,cinc,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de minerales metaliferos no ferrosos,plomo,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de piedra caliza y yeso,caliza,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de piedra caliza y yeso,conchilla,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de piedra caliza y yeso,yeso,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,basalto,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,cuarcita,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,granito,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,marmol,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,marmol onix,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,piedra laja,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,porfido,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,serpentina,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de rocas ornamentales,travertino,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de sal en salinas y sal de roca,sal comun,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion de sal en salinas y sal de roca,sal de roca,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion minerales fabricacion prod. quimicos,baritina,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion minerales fabricacion prod. quimicos,boratos,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion minerales fabricacion prod. quimicos,calcita,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion minerales fabricacion prod. quimicos,fluorita,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion minerales fabricacion prod. quimicos,litio,medido ambos,matriz origen-destino publicada,
+2018,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,medido ambos,matriz origen-destino publicada,
+2018,mineria mineral de hierro,mineral de hierro,medido ambos,matriz origen-destino publicada,
+2018,mineria turba,turba,medido ambos,matriz origen-destino publicada,
+2018,regionales,algodon,medido ambos,matriz origen-destino publicada,
+2018,regionales,azucar,medido ambos,matriz origen-destino publicada,
+2018,regionales,ciruelas,medido ambos,matriz origen-destino publicada,
+2018,regionales,carbon vegetal,medido ambos,matriz origen-destino publicada,
+2018,regionales,durazno,medido ambos,matriz origen-destino publicada,
+2018,regionales,forestal,medido ambos,matriz origen-destino publicada,
+2018,regionales,lana,medido ambos,matriz origen-destino publicada,
+2018,regionales,limon,medido ambos,matriz origen-destino publicada,
+2018,regionales,mandarina,medido ambos,matriz origen-destino publicada,
+2018,regionales,miel,medido ambos,matriz origen-destino publicada,
+2018,regionales,naranja,medido ambos,matriz origen-destino publicada,
+2018,regionales,papas,medido ambos,matriz origen-destino publicada,
+2018,regionales,peras y manzanas,medido ambos,matriz origen-destino publicada,
+2018,regionales,pesca,medido ambos,matriz origen-destino publicada,
+2018,regionales,pomelo,medido ambos,matriz origen-destino publicada,
+2018,regionales,tabaco,medido ambos,matriz origen-destino publicada,
+2018,regionales,té,medido ambos,matriz origen-destino publicada,
+2018,regionales,vinos y mostos,medido ambos,matriz origen-destino publicada,
+2018,regionales,yerba,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,acero,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,alum. elab.,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,aluminio primario,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,cemento,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,caucho,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,ind. maderera,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,papel,medido ambos,matriz origen-destino publicada,
+2018,semiterminados,plastico,medido ambos,matriz origen-destino publicada,
+2018,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2019,carnes,bovinos,plano,,1.0
+2019,carnes,porcinos,plano,,1.0
+2019,carnes,ovinos,plano,,1.0
+2019,carnes,avicola,plano,,1.0
+2019,carnes,caprinos,plano,,1.0
+2019,combustibles,biodiesel,escenario driver,driver gasoil,0.9929772712228921
+2019,combustibles,bioetanol,escenario driver,driver nafta,1.031423604571032
+2019,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.00103180226099
+2019,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.9846447669686488
+2019,combustibles,gas,plano,,1.0
+2019,combustibles,lubricantes,escenario driver,driver gasoil,0.9929772712228918
+2019,combustibles,otros combust,escenario driver,driver gasoil,0.9929772712228919
+2019,ganado en pie,bovinos en pie,plano,,1.0
+2019,ganado en pie,porcinos en pie,plano,,1.0
+2019,ganado en pie,ovinos en pie,plano,,1.0
+2019,ganado en pie,equinos en pie,plano,,1.0
+2019,ganado en pie,caprinos en pie,plano,,1.0
+2019,ganado en pie,bubalinos en pie,plano,,1.0
+2019,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.2964856160731977
+2019,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.2534727792558407
+2019,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1121770117471494
+2019,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4121452377437393
+2019,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.5169779073602732
+2019,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.3638840692389713
+2019,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.09717143422702
+2019,granos,varios 1,escenario driver,driver soja,1.4625522089215917
+2019,granos,varios 2,escenario driver,driver maiz,1.3082757679565358
+2019,granos,varios 3,escenario driver,driver trigo,1.0508521282889205
+2019,industrializados,aceites,escenario driver,driver soja,1.4625522089215914
+2019,industrializados,cigarrillos,escenario driver,driver ipi,0.9366697815654187
+2019,industrializados,electronica,escenario driver,driver ipi,0.9366697815654189
+2019,industrializados,fertilizantes,escenario driver,driver soja,1.4625522089215919
+2019,industrializados,harina,escenario driver,driver trigo,1.0508521282889203
+2019,industrializados,lacteos,escenario driver,driver ipi,0.9366697815654188
+2019,industrializados,maq. agricola,escenario driver,driver ipi,0.936669781565419
+2019,industrializados,motos,escenario driver,driver automotriz,1.0222039570735066
+2019,industrializados,vehiculos,escenario driver,driver automotriz,1.0222039570735066
+2019,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2019,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2019,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.9211049965008716
+2019,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2019,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2019,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2019,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2019,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.9211049965008717
+2019,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,1.3673674125934223
+2019,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.9211049965008716
+2019,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2019,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.9211049965008719
+2019,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2019,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2019,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2019,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2019,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.924885698909047
+2019,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.9211049965008716
+2019,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.9211049965008719
+2019,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2019,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2019,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2019,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2019,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2019,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2019,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2019,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2019,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2019,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2019,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2019,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2019,mineria turba,turba,plano,,1.0
+2019,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.024489081253205
+2019,regionales,azucar,escenario driver,driver azucar,1.0
+2019,regionales,ciruelas,plano,,1.0
+2019,regionales,carbon vegetal,plano,,1.0
+2019,regionales,durazno,plano,,1.0
+2019,regionales,forestal,plano,,1.0
+2019,regionales,lana,plano,,1.0
+2019,regionales,limon,escenario driver,driver limon,1.0
+2019,regionales,mandarina,escenario driver,driver mandarina,1.0
+2019,regionales,miel,plano,,1.0
+2019,regionales,naranja,escenario driver,driver naranja,1.0
+2019,regionales,papas,escenario driver,driver papas,1.0
+2019,regionales,peras y manzanas,plano,,1.0
+2019,regionales,pesca,plano,,1.0
+2019,regionales,pomelo,escenario driver,driver pomelo,1.0
+2019,regionales,tabaco,plano,,1.0
+2019,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9969785930283992
+2019,regionales,vinos y mostos,plano,,1.0
+2019,regionales,yerba,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0318388562170524
+2019,semiterminados,acero,escenario driver,driver siderurgia,0.9025489299939123
+2019,semiterminados,alum. elab.,escenario driver,driver ipi,0.9366697815654189
+2019,semiterminados,aluminio primario,escenario driver,driver ipi,0.936669781565419
+2019,semiterminados,cemento,escenario driver,driver cemento,0.924885698909047
+2019,semiterminados,caucho,escenario driver,driver ipi,0.9366697815654187
+2019,semiterminados,ind. maderera,escenario driver,driver isac,0.9211049965008716
+2019,semiterminados,papel,escenario driver,driver ipi,0.9366697815654189
+2019,semiterminados,plastico,escenario driver,driver ipi,0.9366697815654189
+2019,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2020,carnes,bovinos,plano,,1.0
+2020,carnes,porcinos,plano,,1.0
+2020,carnes,ovinos,plano,,1.0
+2020,carnes,avicola,plano,,1.0
+2020,carnes,caprinos,plano,,1.0
+2020,combustibles,biodiesel,escenario driver,driver gasoil,0.8841223931331125
+2020,combustibles,bioetanol,escenario driver,driver nafta,0.7567906688268644
+2020,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.8595996387396061
+2020,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.7450093721128567
+2020,combustibles,gas,plano,,1.0
+2020,combustibles,lubricantes,escenario driver,driver gasoil,0.8841223931331126
+2020,combustibles,otros combust,escenario driver,driver gasoil,0.8841223931331125
+2020,ganado en pie,bovinos en pie,plano,,1.0
+2020,ganado en pie,porcinos en pie,plano,,1.0
+2020,ganado en pie,ovinos en pie,plano,,1.0
+2020,ganado en pie,equinos en pie,plano,,1.0
+2020,ganado en pie,caprinos en pie,plano,,1.0
+2020,ganado en pie,bubalinos en pie,plano,,1.0
+2020,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.3660900057581422
+2020,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0609487054449356
+2020,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9968188531129689
+2020,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4724661048152519
+2020,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.3321946393960522
+2020,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.7548566917635082
+2020,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.091557086711557
+2020,granos,varios 1,escenario driver,driver soja,1.2909677192781326
+2020,granos,varios 2,escenario driver,driver maiz,1.3435961763939772
+2020,granos,varios 3,escenario driver,driver trigo,1.0679821763042483
+2020,industrializados,aceites,escenario driver,driver soja,1.2909677192781321
+2020,industrializados,cigarrillos,escenario driver,driver ipi,0.8666205183734472
+2020,industrializados,electronica,escenario driver,driver ipi,0.8666205183734472
+2020,industrializados,fertilizantes,escenario driver,driver soja,1.2909677192781326
+2020,industrializados,harina,escenario driver,driver trigo,1.067982176304248
+2020,industrializados,lacteos,escenario driver,driver ipi,0.8666205183734471
+2020,industrializados,maq. agricola,escenario driver,driver ipi,0.8666205183734473
+2020,industrializados,motos,escenario driver,driver automotriz,0.6990775482832804
+2020,industrializados,vehiculos,escenario driver,driver automotriz,0.6990775482832804
+2020,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2020,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2020,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.7416776404592426
+2020,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2020,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2020,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2020,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2020,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.7416776404592427
+2020,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,0.6687967112846385
+2020,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.7416776404592427
+2020,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2020,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.7416776404592428
+2020,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2020,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2020,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2020,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2020,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.9081869256653103
+2020,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.7416776404592427
+2020,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.7416776404592426
+2020,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2020,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2020,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2020,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2020,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2020,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2020,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2020,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2020,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2020,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2020,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2020,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2020,mineria turba,turba,plano,,1.0
+2020,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4369557005771867
+2020,regionales,azucar,escenario driver,driver azucar,1.0
+2020,regionales,ciruelas,plano,,1.0
+2020,regionales,carbon vegetal,plano,,1.0
+2020,regionales,durazno,plano,,1.0
+2020,regionales,forestal,plano,,1.0
+2020,regionales,lana,plano,,1.0
+2020,regionales,limon,escenario driver,driver limon,1.0
+2020,regionales,mandarina,escenario driver,driver mandarina,1.0
+2020,regionales,miel,plano,,1.0
+2020,regionales,naranja,escenario driver,driver naranja,1.0
+2020,regionales,papas,escenario driver,driver papas,1.0
+2020,regionales,peras y manzanas,plano,,1.0
+2020,regionales,pesca,plano,,1.0
+2020,regionales,pomelo,escenario driver,driver pomelo,1.0
+2020,regionales,tabaco,plano,,1.0
+2020,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.8943175458335094
+2020,regionales,vinos y mostos,plano,,1.0
+2020,regionales,yerba,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9987904276228112
+2020,semiterminados,acero,escenario driver,driver siderurgia,0.7519626402074163
+2020,semiterminados,alum. elab.,escenario driver,driver ipi,0.8666205183734471
+2020,semiterminados,aluminio primario,escenario driver,driver ipi,0.8666205183734473
+2020,semiterminados,cemento,escenario driver,driver cemento,0.9081869256653105
+2020,semiterminados,caucho,escenario driver,driver ipi,0.8666205183734472
+2020,semiterminados,ind. maderera,escenario driver,driver isac,0.7416776404592426
+2020,semiterminados,papel,escenario driver,driver ipi,0.8666205183734471
+2020,semiterminados,plastico,escenario driver,driver ipi,0.8666205183734473
+2020,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2021,carnes,bovinos,plano,,1.0
+2021,carnes,porcinos,plano,,1.0
+2021,carnes,ovinos,plano,,1.0
+2021,carnes,avicola,plano,,1.0
+2021,carnes,caprinos,plano,,1.0
+2021,combustibles,biodiesel,escenario driver,driver gasoil,1.0166400849223263
+2021,combustibles,bioetanol,escenario driver,driver nafta,0.9563705331759662
+2021,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.028867354965733
+2021,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.9447146347256382
+2021,combustibles,gas,plano,,1.0
+2021,combustibles,lubricantes,escenario driver,driver gasoil,1.016640084922326
+2021,combustibles,otros combust,escenario driver,driver gasoil,1.0166400849223263
+2021,ganado en pie,bovinos en pie,plano,,1.0
+2021,ganado en pie,porcinos en pie,plano,,1.0
+2021,ganado en pie,ovinos en pie,plano,,1.0
+2021,ganado en pie,equinos en pie,plano,,1.0
+2021,ganado en pie,caprinos en pie,plano,,1.0
+2021,ganado en pie,bubalinos en pie,plano,,1.0
+2021,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.5996443658236543
+2021,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1113167126969286
+2021,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9748027911540859
+2021,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.5520266646066467
+2021,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.2726648704289911
+2021,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",2.995296404038115
+2021,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.0386357832824444
+2021,granos,varios 1,escenario driver,driver soja,1.223151439423466
+2021,granos,varios 2,escenario driver,driver maiz,1.3926040032420728
+2021,granos,varios 3,escenario driver,driver trigo,0.9528153214877708
+2021,industrializados,aceites,escenario driver,driver soja,1.2231514394234657
+2021,industrializados,cigarrillos,escenario driver,driver ipi,1.002732318400865
+2021,industrializados,electronica,escenario driver,driver ipi,1.002732318400865
+2021,industrializados,fertilizantes,escenario driver,driver soja,1.2231514394234662
+2021,industrializados,harina,escenario driver,driver trigo,0.9528153214877705
+2021,industrializados,lacteos,escenario driver,driver ipi,1.002732318400865
+2021,industrializados,maq. agricola,escenario driver,driver ipi,1.0027323184008652
+2021,industrializados,motos,escenario driver,driver automotriz,0.7803675645205965
+2021,industrializados,vehiculos,escenario driver,driver automotriz,0.7803675645205965
+2021,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2021,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2021,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.9710176982903399
+2021,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2021,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2021,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2021,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2021,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.9710176982903401
+2021,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,2.0647393464409993
+2021,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.9710176982903399
+2021,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2021,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.97101769829034
+2021,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2021,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2021,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2021,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2021,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.9824855227671679
+2021,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.9710176982903399
+2021,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.9710176982903399
+2021,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2021,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2021,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2021,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2021,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2021,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2021,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2021,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2021,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2021,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2021,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2021,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2021,mineria turba,turba,plano,,1.0
+2021,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.448486993972172
+2021,regionales,azucar,escenario driver,driver azucar,1.0
+2021,regionales,ciruelas,plano,,1.0
+2021,regionales,carbon vegetal,plano,,1.0
+2021,regionales,durazno,plano,,1.0
+2021,regionales,forestal,plano,,1.0
+2021,regionales,lana,plano,,1.0
+2021,regionales,limon,escenario driver,driver limon,1.0
+2021,regionales,mandarina,escenario driver,driver mandarina,1.0
+2021,regionales,miel,plano,,1.0
+2021,regionales,naranja,escenario driver,driver naranja,1.0
+2021,regionales,papas,escenario driver,driver papas,1.0
+2021,regionales,peras y manzanas,plano,,1.0
+2021,regionales,pesca,plano,,1.0
+2021,regionales,pomelo,escenario driver,driver pomelo,1.0
+2021,regionales,tabaco,plano,,1.0
+2021,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9184862420324686
+2021,regionales,vinos y mostos,plano,,1.0
+2021,regionales,yerba,escenario driver,driver yerba,1.0
+2021,semiterminados,acero,escenario driver,driver siderurgia,1.0191314705905747
+2021,semiterminados,alum. elab.,escenario driver,driver ipi,1.002732318400865
+2021,semiterminados,aluminio primario,escenario driver,driver ipi,1.002732318400865
+2021,semiterminados,cemento,escenario driver,driver cemento,0.9824855227671679
+2021,semiterminados,caucho,escenario driver,driver ipi,1.002732318400865
+2021,semiterminados,ind. maderera,escenario driver,driver isac,0.97101769829034
+2021,semiterminados,papel,escenario driver,driver ipi,1.0027323184008647
+2021,semiterminados,plastico,escenario driver,driver ipi,1.002732318400865
+2021,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2022,carnes,bovinos,plano,,1.0
+2022,carnes,porcinos,plano,,1.0
+2022,carnes,ovinos,plano,,1.0
+2022,carnes,avicola,plano,,1.0
+2022,carnes,caprinos,plano,,1.0
+2022,combustibles,biodiesel,escenario driver,driver gasoil,1.0955057444686356
+2022,combustibles,bioetanol,escenario driver,driver nafta,1.0673746371601058
+2022,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.1635677952123051
+2022,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.0957231842307253
+2022,combustibles,gas,plano,,1.0
+2022,combustibles,lubricantes,escenario driver,driver gasoil,1.0955057444686354
+2022,combustibles,otros combust,escenario driver,driver gasoil,1.0955057444686354
+2022,ganado en pie,bovinos en pie,plano,,1.0
+2022,ganado en pie,porcinos en pie,plano,,1.0
+2022,ganado en pie,ovinos en pie,plano,,1.0
+2022,ganado en pie,equinos en pie,plano,,1.0
+2022,ganado en pie,caprinos en pie,plano,,1.0
+2022,ganado en pie,bubalinos en pie,plano,,1.0
+2022,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4105752007562664
+2022,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.5110492091285022
+2022,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1297398563941319
+2022,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4821283983337326
+2022,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1955399614261777
+2022,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",2.668011145042505
+2022,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.3539410357262143
+2022,granos,varios 1,escenario driver,driver soja,1.1607778208008501
+2022,granos,varios 2,escenario driver,driver maiz,1.3583530498358316
+2022,granos,varios 3,escenario driver,driver trigo,1.1961460834553543
+2022,industrializados,aceites,escenario driver,driver soja,1.1607778208008495
+2022,industrializados,cigarrillos,escenario driver,driver ipi,1.0446097286468154
+2022,industrializados,electronica,escenario driver,driver ipi,1.0446097286468154
+2022,industrializados,fertilizantes,escenario driver,driver soja,1.1607778208008503
+2022,industrializados,harina,escenario driver,driver trigo,1.1961460834553541
+2022,industrializados,lacteos,escenario driver,driver ipi,1.0446097286468154
+2022,industrializados,maq. agricola,escenario driver,driver ipi,1.0446097286468157
+2022,industrializados,motos,escenario driver,driver automotriz,0.8225457112728902
+2022,industrializados,vehiculos,escenario driver,driver automotriz,0.8225457112728902
+2022,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2022,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2022,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,1.002763912739886
+2022,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2022,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2022,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2022,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2022,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,1.002763912739886
+2022,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,2.713715934174094
+2022,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,1.002763912739886
+2022,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2022,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,1.002763912739886
+2022,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2022,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2022,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2022,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2022,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.9464881943955461
+2022,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,1.0027639127398862
+2022,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,1.002763912739886
+2022,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2022,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2022,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2022,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2022,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2022,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2022,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2022,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2022,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2022,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2022,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2022,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2022,mineria turba,turba,plano,,1.0
+2022,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4061052992337633
+2022,regionales,azucar,escenario driver,driver azucar,1.0
+2022,regionales,ciruelas,plano,,1.0
+2022,regionales,carbon vegetal,plano,,1.0
+2022,regionales,durazno,plano,,1.0
+2022,regionales,forestal,plano,,1.0
+2022,regionales,lana,plano,,1.0
+2022,regionales,limon,escenario driver,driver limon,1.0
+2022,regionales,mandarina,escenario driver,driver mandarina,1.0
+2022,regionales,miel,plano,,1.0
+2022,regionales,naranja,escenario driver,driver naranja,1.0
+2022,regionales,papas,escenario driver,driver papas,1.0
+2022,regionales,peras y manzanas,plano,,1.0
+2022,regionales,pesca,plano,,1.0
+2022,regionales,pomelo,escenario driver,driver pomelo,1.0
+2022,regionales,tabaco,plano,,1.0
+2022,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9682840253572442
+2022,regionales,vinos y mostos,plano,,1.0
+2022,regionales,yerba,escenario driver,driver yerba,1.0
+2022,semiterminados,acero,escenario driver,driver siderurgia,0.9722057121012059
+2022,semiterminados,alum. elab.,escenario driver,driver ipi,1.0446097286468154
+2022,semiterminados,aluminio primario,escenario driver,driver ipi,1.0446097286468154
+2022,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",1.019166724325498
+2022,semiterminados,caucho,escenario driver,driver ipi,1.0446097286468154
+2022,semiterminados,ind. maderera,escenario driver,driver isac,1.0027639127398857
+2022,semiterminados,papel,escenario driver,driver ipi,1.0446097286468154
+2022,semiterminados,plastico,escenario driver,driver ipi,1.0446097286468157
+2022,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2023,carnes,bovinos,plano,,1.0
+2023,carnes,porcinos,plano,,1.0
+2023,carnes,ovinos,plano,,1.0
+2023,carnes,avicola,plano,,1.0
+2023,carnes,caprinos,plano,,1.0
+2023,combustibles,biodiesel,escenario driver,driver gasoil,1.0872394111184729
+2023,combustibles,bioetanol,escenario driver,driver nafta,1.1314736603498674
+2023,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.2654793089329357
+2023,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.1850915441552863
+2023,combustibles,gas,plano,,1.0
+2023,combustibles,lubricantes,escenario driver,driver gasoil,1.0872394111184724
+2023,combustibles,otros combust,escenario driver,driver gasoil,1.0872394111184724
+2023,ganado en pie,bovinos en pie,plano,,1.0
+2023,ganado en pie,porcinos en pie,plano,,1.0
+2023,ganado en pie,ovinos en pie,plano,,1.0
+2023,ganado en pie,equinos en pie,plano,,1.0
+2023,ganado en pie,caprinos en pie,plano,,1.0
+2023,ganado en pie,bubalinos en pie,plano,,1.0
+2023,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.3311339123245995
+2023,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1968443087849616
+2023,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4048998094123255
+2023,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.001607839214509
+2023,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.6699387651146794
+2023,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.822595529258535
+2023,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.6921036324740092
+2023,granos,varios 1,escenario driver,driver soja,0.6628124274945008
+2023,granos,varios 2,escenario driver,driver maiz,0.9527665605908827
+2023,granos,varios 3,escenario driver,driver trigo,0.6780337773236863
+2023,industrializados,aceites,escenario driver,driver soja,0.6628124274945005
+2023,industrializados,cigarrillos,escenario driver,driver ipi,1.0262132585591301
+2023,industrializados,electronica,escenario driver,driver ipi,1.0262132585591301
+2023,industrializados,fertilizantes,escenario driver,driver soja,0.6628124274945009
+2023,industrializados,harina,escenario driver,driver trigo,0.6780337773236861
+2023,industrializados,lacteos,escenario driver,driver ipi,1.0262132585591301
+2023,industrializados,maq. agricola,escenario driver,driver ipi,1.0262132585591304
+2023,industrializados,motos,escenario driver,driver automotriz,0.8069501821925443
+2023,industrializados,vehiculos,escenario driver,driver automotriz,0.8069501821925443
+2023,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2023,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2023,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.9726708265281797
+2023,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2023,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2023,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2023,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2023,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.9726708265281798
+2023,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,2.861318825987906
+2023,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.9726708265281798
+2023,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2023,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.9726708265281799
+2023,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2023,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2023,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2023,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2023,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.956793458464671
+2023,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.9726708265281799
+2023,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.9726708265281798
+2023,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2023,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2023,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2023,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2023,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2023,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2023,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2023,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2023,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2023,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2023,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2023,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2023,mineria turba,turba,plano,,1.0
+2023,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1056741470913336
+2023,regionales,azucar,escenario driver,driver azucar,1.0
+2023,regionales,ciruelas,plano,,1.0
+2023,regionales,carbon vegetal,plano,,1.0
+2023,regionales,durazno,plano,,1.0
+2023,regionales,forestal,plano,,1.0
+2023,regionales,lana,plano,,1.0
+2023,regionales,limon,escenario driver,driver limon,1.0
+2023,regionales,mandarina,escenario driver,driver mandarina,1.0
+2023,regionales,miel,plano,,1.0
+2023,regionales,naranja,escenario driver,driver naranja,1.0
+2023,regionales,papas,escenario driver,driver papas,1.0
+2023,regionales,peras y manzanas,plano,,1.0
+2023,regionales,pesca,plano,,1.0
+2023,regionales,pomelo,escenario driver,driver pomelo,1.0
+2023,regionales,tabaco,plano,,1.0
+2023,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9377477875603409
+2023,regionales,vinos y mostos,plano,,1.0
+2023,regionales,yerba,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.955092985715377
+2023,semiterminados,acero,escenario driver,driver siderurgia,0.9537405206681485
+2023,semiterminados,alum. elab.,escenario driver,driver ipi,1.0262132585591301
+2023,semiterminados,aluminio primario,escenario driver,driver ipi,1.0262132585591301
+2023,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",0.9879679726844269
+2023,semiterminados,caucho,escenario driver,driver ipi,1.02621325855913
+2023,semiterminados,ind. maderera,escenario driver,driver isac,0.9726708265281798
+2023,semiterminados,papel,escenario driver,driver ipi,1.02621325855913
+2023,semiterminados,plastico,escenario driver,driver ipi,1.0262132585591301
+2023,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2024,carnes,bovinos,plano,,1.0
+2024,carnes,porcinos,plano,,1.0
+2024,carnes,ovinos,plano,,1.0
+2024,carnes,avicola,plano,,1.0
+2024,carnes,caprinos,plano,,1.0
+2024,combustibles,biodiesel,escenario driver,driver gasoil,1.037153942966308
+2024,combustibles,bioetanol,escenario driver,driver nafta,1.1121607921237822
+2024,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.2046521721054066
+2024,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.1740961213361827
+2024,combustibles,gas,plano,,1.0
+2024,combustibles,lubricantes,escenario driver,driver gasoil,1.0371539429663077
+2024,combustibles,otros combust,escenario driver,driver gasoil,1.0371539429663077
+2024,ganado en pie,bovinos en pie,plano,,1.0
+2024,ganado en pie,porcinos en pie,plano,,1.0
+2024,ganado en pie,ovinos en pie,plano,,1.0
+2024,ganado en pie,equinos en pie,plano,,1.0
+2024,ganado en pie,caprinos en pie,plano,,1.0
+2024,ganado en pie,bubalinos en pie,plano,,1.0
+2024,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.471289909213524
+2024,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.436707587698186
+2024,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.072648837015836
+2024,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4824079220919357
+2024,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.340014487995535
+2024,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",2.520368597089332
+2024,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.9462331136464126
+2024,granos,varios 1,escenario driver,driver soja,1.2759569455580646
+2024,granos,varios 2,escenario driver,driver maiz,1.3228584215344403
+2024,granos,varios 3,escenario driver,driver trigo,0.8560922062777147
+2024,industrializados,aceites,escenario driver,driver soja,1.2759569455580644
+2024,industrializados,cigarrillos,escenario driver,driver ipi,0.9292655461463357
+2024,industrializados,electronica,escenario driver,driver ipi,0.9292655461463356
+2024,industrializados,fertilizantes,escenario driver,driver soja,1.275956945558065
+2024,industrializados,harina,escenario driver,driver trigo,0.8560922062777147
+2024,industrializados,lacteos,escenario driver,driver ipi,0.9292655461463356
+2024,industrializados,maq. agricola,escenario driver,driver ipi,0.9292655461463357
+2024,industrializados,motos,escenario driver,driver automotriz,0.8849632317465561
+2024,industrializados,vehiculos,escenario driver,driver automotriz,0.8849632317465562
+2024,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2024,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2024,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.7028331325901148
+2024,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2024,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2024,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2024,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2024,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.7028331325901148
+2024,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,3.303377560779706
+2024,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.7028331325901149
+2024,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2024,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.7028331325901149
+2024,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2024,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2024,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2024,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2024,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.945121804669275
+2024,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.702833132590115
+2024,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.7028331325901149
+2024,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2024,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2024,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2024,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2024,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2024,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2024,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2024,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2024,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2024,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2024,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2024,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2024,mineria turba,turba,plano,,1.0
+2024,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.468850941598852
+2024,regionales,azucar,escenario driver,driver azucar,1.0
+2024,regionales,ciruelas,plano,,1.0
+2024,regionales,carbon vegetal,plano,,1.0
+2024,regionales,durazno,plano,,1.0
+2024,regionales,forestal,plano,,1.0
+2024,regionales,lana,plano,,1.0
+2024,regionales,limon,escenario driver,driver limon,1.0
+2024,regionales,mandarina,escenario driver,driver mandarina,1.0
+2024,regionales,miel,plano,,1.0
+2024,regionales,naranja,escenario driver,driver naranja,1.0
+2024,regionales,papas,escenario driver,driver papas,1.0
+2024,regionales,peras y manzanas,plano,,1.0
+2024,regionales,pesca,plano,,1.0
+2024,regionales,pomelo,escenario driver,driver pomelo,1.0
+2024,regionales,tabaco,plano,,1.0
+2024,regionales,té,medido origen,"MAGyP, estimaciones agrícolas por departamento",0.971739751456435
+2024,regionales,vinos y mostos,plano,,1.0
+2024,regionales,yerba,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.2140499823006485
+2024,semiterminados,acero,escenario driver,driver siderurgia,0.7385118822751752
+2024,semiterminados,alum. elab.,escenario driver,driver ipi,0.9292655461463357
+2024,semiterminados,aluminio primario,escenario driver,driver ipi,0.9292655461463358
+2024,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",0.7512594616051786
+2024,semiterminados,caucho,escenario driver,driver ipi,0.9292655461463357
+2024,semiterminados,ind. maderera,escenario driver,driver isac,0.7028331325901149
+2024,semiterminados,papel,escenario driver,driver ipi,0.9292655461463355
+2024,semiterminados,plastico,escenario driver,driver ipi,0.9292655461463357
+2024,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2025,carnes,bovinos,plano,,1.0
+2025,carnes,porcinos,plano,,1.0
+2025,carnes,ovinos,plano,,1.0
+2025,carnes,avicola,plano,,1.0
+2025,carnes,caprinos,plano,,1.0
+2025,combustibles,biodiesel,escenario driver,driver gasoil,1.0573439967506124
+2025,combustibles,bioetanol,escenario driver,driver nafta,1.1072210435344005
+2025,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.1648730962632932
+2025,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.2421094103809578
+2025,combustibles,gas,plano,,1.0
+2025,combustibles,lubricantes,escenario driver,driver gasoil,1.0573439967506122
+2025,combustibles,otros combust,escenario driver,driver gasoil,1.0573439967506124
+2025,ganado en pie,bovinos en pie,plano,,1.0
+2025,ganado en pie,porcinos en pie,plano,,1.0
+2025,ganado en pie,ovinos en pie,plano,,1.0
+2025,ganado en pie,equinos en pie,plano,,1.0
+2025,ganado en pie,caprinos en pie,plano,,1.0
+2025,ganado en pie,bubalinos en pie,plano,,1.0
+2025,granos,arroz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.8417030105770715
+2025,granos,cebada,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.355048652541261
+2025,granos,girasol,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4477698805587176
+2025,granos,maiz,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.3060094003784035
+2025,granos,soja,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.4214212565768962
+2025,granos,sorgo,medido origen,"MAGyP, estimaciones agrícolas por departamento",2.467157178393555
+2025,granos,trigo,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1232360114054647
+2025,granos,varios 1,escenario driver,driver soja,1.3525627940793936
+2025,granos,varios 2,escenario driver,driver maiz,1.1893278921147405
+2025,granos,varios 3,escenario driver,driver trigo,0.9995806792779691
+2025,industrializados,aceites,escenario driver,driver soja,1.3525627940793934
+2025,industrializados,cigarrillos,escenario driver,driver ipi,0.9436682512386568
+2025,industrializados,electronica,escenario driver,driver ipi,0.9436682512386565
+2025,industrializados,fertilizantes,escenario driver,driver soja,1.3525627940793938
+2025,industrializados,harina,escenario driver,driver trigo,0.9995806792779691
+2025,industrializados,lacteos,escenario driver,driver ipi,0.9436682512386566
+2025,industrializados,maq. agricola,escenario driver,driver ipi,0.9436682512386569
+2025,industrializados,motos,escenario driver,driver automotriz,1.0
+2025,industrializados,vehiculos,escenario driver,driver automotriz,1.0
+2025,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2025,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2025,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.7471511707252149
+2025,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2025,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2025,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2025,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2025,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.7471511707252149
+2025,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,4.5542992378739315
+2025,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.747151170725215
+2025,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2025,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.747151170725215
+2025,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2025,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2025,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2025,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2025,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,0.9803710522780926
+2025,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.747151170725215
+2025,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.7471511707252149
+2025,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2025,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2025,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2025,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2025,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2025,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2025,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2025,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2025,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2025,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2025,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2025,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2025,mineria turba,turba,plano,,1.0
+2025,regionales,algodon,medido origen,"MAGyP, estimaciones agrícolas por departamento",1.1113731960671895
+2025,regionales,azucar,escenario driver,driver azucar,1.0
+2025,regionales,ciruelas,plano,,1.0
+2025,regionales,carbon vegetal,plano,,1.0
+2025,regionales,durazno,plano,,1.0
+2025,regionales,forestal,plano,,1.0
+2025,regionales,lana,plano,,1.0
+2025,regionales,limon,escenario driver,driver limon,1.0
+2025,regionales,mandarina,escenario driver,driver mandarina,1.0
+2025,regionales,miel,plano,,1.0
+2025,regionales,naranja,escenario driver,driver naranja,1.0
+2025,regionales,papas,escenario driver,driver papas,1.0
+2025,regionales,peras y manzanas,plano,,1.0
+2025,regionales,pesca,plano,,1.0
+2025,regionales,pomelo,escenario driver,driver pomelo,1.0
+2025,regionales,tabaco,plano,,1.0
+2025,regionales,té,plano,,1.0
+2025,regionales,vinos y mostos,plano,,1.0
+2025,regionales,yerba,escenario driver,driver yerba,1.0
+2025,semiterminados,acero,escenario driver,driver siderurgia,0.789124363841277
+2025,semiterminados,alum. elab.,escenario driver,driver ipi,0.9436682512386567
+2025,semiterminados,aluminio primario,escenario driver,driver ipi,0.9436682512386568
+2025,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",0.7780341306911299
+2025,semiterminados,caucho,escenario driver,driver ipi,0.9436682512386567
+2025,semiterminados,ind. maderera,escenario driver,driver isac,0.7471511707252148
+2025,semiterminados,papel,escenario driver,driver ipi,0.9436682512386567
+2025,semiterminados,plastico,escenario driver,driver ipi,0.9436682512386568
+2025,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
+2026,carnes,bovinos,plano,,1.0
+2026,carnes,porcinos,plano,,1.0
+2026,carnes,ovinos,plano,,1.0
+2026,carnes,avicola,plano,,1.0
+2026,carnes,caprinos,plano,,1.0
+2026,combustibles,biodiesel,escenario driver,driver gasoil,1.0
+2026,combustibles,bioetanol,escenario driver,driver nafta,1.0
+2026,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.1938607435454478
+2026,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.2667228993097204
+2026,combustibles,gas,plano,,1.0
+2026,combustibles,lubricantes,escenario driver,driver gasoil,1.0
+2026,combustibles,otros combust,escenario driver,driver gasoil,1.0
+2026,ganado en pie,bovinos en pie,plano,,1.0
+2026,ganado en pie,porcinos en pie,plano,,1.0
+2026,ganado en pie,ovinos en pie,plano,,1.0
+2026,ganado en pie,equinos en pie,plano,,1.0
+2026,ganado en pie,caprinos en pie,plano,,1.0
+2026,ganado en pie,bubalinos en pie,plano,,1.0
+2026,granos,arroz,escenario driver,driver arroz,1.0
+2026,granos,cebada,escenario driver,driver cebada,1.0
+2026,granos,girasol,escenario driver,driver girasol,1.0
+2026,granos,maiz,escenario driver,driver maiz,1.0
+2026,granos,soja,escenario driver,driver soja,1.0
+2026,granos,sorgo,escenario driver,driver sorgo,1.0
+2026,granos,trigo,escenario driver,driver trigo,1.0
+2026,granos,varios 1,escenario driver,driver soja,1.0
+2026,granos,varios 2,escenario driver,driver maiz,1.0
+2026,granos,varios 3,escenario driver,driver trigo,1.0
+2026,industrializados,aceites,escenario driver,driver soja,1.0
+2026,industrializados,cigarrillos,escenario driver,driver ipi,0.9108589168423216
+2026,industrializados,electronica,escenario driver,driver ipi,0.9108589168423216
+2026,industrializados,fertilizantes,escenario driver,driver soja,1.0
+2026,industrializados,harina,escenario driver,driver trigo,1.0
+2026,industrializados,lacteos,escenario driver,driver ipi,0.9108589168423216
+2026,industrializados,maq. agricola,escenario driver,driver ipi,0.9108589168423216
+2026,industrializados,motos,escenario driver,driver automotriz,1.0
+2026,industrializados,vehiculos,escenario driver,driver automotriz,1.0
+2026,mineria explotacion de minas y canteras ncp,cuarzo camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,diatomita camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,feldespato camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,granulado vol. camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,perlita camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,piedra pomez camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,puzolana camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,talco camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,toba camion,plano,,1.0
+2026,mineria explotacion de minas y canteras ncp,tosca camion,plano,,1.0
+2026,mineria extraccion de arcillas y caolin,arcillas,escenario driver,driver isac,0.730570871280468
+2026,mineria extraccion de arcillas y caolin,bentonita,plano,,1.0
+2026,mineria extraccion de arcillas y caolin,caolin,plano,,1.0
+2026,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
+2026,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
+2026,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.730570871280468
+2026,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,3.9108144546855397
+2026,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.730570871280468
+2026,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
+2026,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.730570871280468
+2026,mineria extraccion de minerales metaliferos no ferrosos,cadmio,plano,,1.0
+2026,mineria extraccion de minerales metaliferos no ferrosos,cinc,plano,,1.0
+2026,mineria extraccion de minerales metaliferos no ferrosos,molibdeno,plano,,1.0
+2026,mineria extraccion de minerales metaliferos no ferrosos,plomo,plano,,1.0
+2026,mineria extraccion de piedra caliza y yeso,caliza,escenario driver,driver cemento,1.0
+2026,mineria extraccion de piedra caliza y yeso,conchilla,escenario driver,driver isac,0.730570871280468
+2026,mineria extraccion de piedra caliza y yeso,yeso,escenario driver,driver isac,0.730570871280468
+2026,mineria extraccion de rocas ornamentales,basalto,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,cuarcita,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,granito,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,marmol,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,marmol onix,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,piedra laja,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,porfido,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,serpentina,plano,,1.0
+2026,mineria extraccion de rocas ornamentales,travertino,plano,,1.0
+2026,mineria extraccion de sal en salinas y sal de roca,sal comun,plano,,1.0
+2026,mineria extraccion de sal en salinas y sal de roca,sal de roca,plano,,1.0
+2026,mineria extraccion minerales fabricacion prod. quimicos,asfaltita,plano,,1.0
+2026,mineria extraccion minerales fabricacion prod. quimicos,baritina,plano,,1.0
+2026,mineria extraccion minerales fabricacion prod. quimicos,boratos,plano,,1.0
+2026,mineria extraccion minerales fabricacion prod. quimicos,calcita,plano,,1.0
+2026,mineria extraccion minerales fabricacion prod. quimicos,fluorita,plano,,1.0
+2026,mineria extraccion minerales fabricacion prod. quimicos,litio,plano,,1.0
+2026,mineria extraccion minerales fabricacion prod. quimicos,sulfato de sodio,plano,,1.0
+2026,mineria mineral de hierro,mineral de hierro,plano,,1.0
+2026,mineria turba,turba,plano,,1.0
+2026,regionales,algodon,escenario driver,driver algodon,1.0
+2026,regionales,azucar,escenario driver,driver azucar,1.0
+2026,regionales,ciruelas,plano,,1.0
+2026,regionales,carbon vegetal,plano,,1.0
+2026,regionales,durazno,plano,,1.0
+2026,regionales,forestal,plano,,1.0
+2026,regionales,lana,plano,,1.0
+2026,regionales,limon,escenario driver,driver limon,1.0
+2026,regionales,mandarina,escenario driver,driver mandarina,1.0
+2026,regionales,miel,plano,,1.0
+2026,regionales,naranja,escenario driver,driver naranja,1.0
+2026,regionales,papas,escenario driver,driver papas,1.0
+2026,regionales,peras y manzanas,plano,,1.0
+2026,regionales,pesca,plano,,1.0
+2026,regionales,pomelo,escenario driver,driver pomelo,1.0
+2026,regionales,tabaco,plano,,1.0
+2026,regionales,té,plano,,1.0
+2026,regionales,vinos y mostos,plano,,1.0
+2026,regionales,yerba,escenario driver,driver yerba,1.0
+2026,semiterminados,acero,escenario driver,driver siderurgia,0.7230153163840998
+2026,semiterminados,alum. elab.,escenario driver,driver ipi,0.9108589168423217
+2026,semiterminados,aluminio primario,escenario driver,driver ipi,0.9108589168423217
+2026,semiterminados,cemento,escenario driver,driver cemento,1.0
+2026,semiterminados,caucho,escenario driver,driver ipi,0.9108589168423215
+2026,semiterminados,ind. maderera,escenario driver,driver isac,0.7305708712804679
+2026,semiterminados,papel,escenario driver,driver ipi,0.9108589168423216
+2026,semiterminados,plastico,escenario driver,driver ipi,0.9108589168423216
+2026,mineria arena de fractura,arena de fractura no vista,medido destino,registro de fractura,
