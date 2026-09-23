@@ -77,12 +77,17 @@ AFCP_DESDE = (2018, 1)
 
 
 def ca_bundle(destino: Path = DATA_RAW / "ca_bundle.pem") -> Path:
-    """Paquete de certificados: los de certifi más la intermedia de Let's Encrypt que el geoserver no manda."""
+    """Paquete de certificados: los de certifi más los eslabones que el geoserver no manda.
+
+    La cadena del servidor es hoja → Let's Encrypt YR2 → ISRG Root YR (firmada en cruz por ISRG Root X1)
+    → ISRG Root X1, que sí está en certifi. Los dos eslabones intermedios están en scripts/certs; no se
+    agrega ninguna raíz nueva.
+    """
     import certifi
 
-    base = Path(certifi.where()).read_bytes()
-    extra = CERT_INTERMEDIA.read_bytes()
-    contenido = base.rstrip(b"\n") + b"\n" + extra.rstrip(b"\n") + b"\n"
+    base = Path(certifi.where()).read_bytes().rstrip(b"\n")
+    extras = b"\n".join(p.read_bytes().rstrip(b"\n") for p in sorted(CERT_INTERMEDIA.parent.glob("*.pem")))
+    contenido = base + b"\n" + extras + b"\n"
     destino.parent.mkdir(parents=True, exist_ok=True)
     if not destino.exists() or destino.read_bytes() != contenido:
         destino.write_bytes(contenido)
