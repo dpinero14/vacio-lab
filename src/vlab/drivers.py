@@ -89,10 +89,11 @@ def sand_by_year(path: Path = DATA_RAW / "fractura_adjunto_iv.csv", basin: str =
     f = df[(df["basin"].str.upper() == basin) & (df["reservoir_type"].str.upper() == "NO CONVENCIONAL")].copy()
     f["fecha"] = pd.to_datetime(f["frac_start"], errors="coerce")
     t = (f["nac"].fillna(0) + f["imp"].fillna(0)).groupby(f["anio"]).sum().dropna().rename("arena_t")
-    # el último año está incompleto: se anualiza por los meses que tiene, y se declara
-    ultimo = int(t.index.max()); meses = int(f.loc[f["anio"] == ultimo, "fecha"].dt.month.max())
-    if 1 <= meses < 12:
-        t.loc[ultimo] = t.loc[ultimo] * 12.0 / meses
+    # el último año está incompleto: se anualiza por el mes de la última carga del registro, no por fechas sueltas
+    ultimo = int(t.index.max())
+    carga = pd.to_datetime(pd.read_csv(path, low_memory=False, usecols=["fecha_data"])["fecha_data"], errors="coerce").max()
+    if pd.notna(carga) and carga.year == ultimo and carga.month < 12:
+        t.loc[ultimo] = t.loc[ultimo] * 12.0 / carga.month
     return t
 
 
