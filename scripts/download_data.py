@@ -1,4 +1,4 @@
-"""Baja a data/raw todo lo que usa el repo: las matrices origen-destino 2012 a 2018, las zonas y la red vial con flujos por sentido.
+"""Baja a data/raw todo lo que usa el repo: las matrices origen-destino 2012 a 2018, las zonas, la red vial con flujos por sentido, y los drivers de la proyección.
 
 Fuente: Secretaría de Transporte, dataset "Matriz Origen-Destino vial de Transporte de Cargas"
 (datos.transporte.gob.ar/dataset/matriz-od-vial-cargas) y su IDE (ide.transporte.gob.ar/geoserver, WFS).
@@ -25,6 +25,9 @@ ARCHIVOS = {
     "codigos_zonas.xls": f"{CKAN}/1d2cf181-89fc-4ba1-9803-2508b47ec1a3/download/03.-codigos-de-zonas.xls",
     "zonificacion.jpg": f"{CKAN}/e30513f7-65b0-453c-b42c-d431063f3153/download/02.-zonificacion.jpg",
     "metodologia_od_2018.pdf": f"{CKAN}/6457df85-bf46-40dc-8fea-c8904608fb5e/download/informe_metodologico_matrices_origen_y_destino_de_cargas_2018_final.pdf",
+    # drivers para proyectar la matriz: producción agrícola por campaña y el registro de fractura (arena)
+    "magyp_estimaciones_agricolas.csv": "https://datos.magyp.gob.ar/dataset/9e1e77ba-267e-4eaa-a59f-3296e86b5f36/resource/95d066e6-8a0f-4a80-b59d-6f28f88eacd5/download/estimaciones-agricolas-2026-03.csv",
+    "fractura_adjunto_iv.csv": "http://datos.energia.gob.ar/dataset/71fa2e84-0316-4a1b-af68-7f35e41f58d7/resource/2280ad92-6ed3-403e-a095-50139863ab0d/download/datos-de-fractura-de-pozos-de-hidrocarburos-adjunto-iv-actualizacin-diaria.csv",
 }
 # capas de la red vial simplificada con la asignación de camiones 2018, una por grupo y el total
 CAPAS = {
