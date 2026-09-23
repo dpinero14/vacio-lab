@@ -89,11 +89,13 @@ def sand_by_year(path: Path = DATA_RAW / "fractura_adjunto_iv.csv", basin: str =
     f = df[(df["basin"].str.upper() == basin) & (df["reservoir_type"].str.upper() == "NO CONVENCIONAL")].copy()
     f["fecha"] = pd.to_datetime(f["frac_start"], errors="coerce")
     t = (f["nac"].fillna(0) + f["imp"].fillna(0)).groupby(f["anio"]).sum().dropna().rename("arena_t")
-    # el último año está incompleto: se anualiza por el mes de la última carga del registro, no por fechas sueltas
+    # el último año está incompleto y el registro se carga con meses de atraso: se anualiza por los meses
+    # con volumen real (al menos el 10 % del mejor mes del año), no por fechas sueltas ni por la fecha de carga
     ultimo = int(t.index.max())
-    carga = pd.to_datetime(pd.read_csv(path, low_memory=False, usecols=["fecha_data"])["fecha_data"], errors="coerce").max()
-    if pd.notna(carga) and carga.year == ultimo and carga.month < 12:
-        t.loc[ultimo] = t.loc[ultimo] * 12.0 / carga.month
+    por_mes = (f.loc[f["anio"] == ultimo, "nac"].fillna(0) + f.loc[f["anio"] == ultimo, "imp"].fillna(0)).groupby(f.loc[f["anio"] == ultimo, "fecha"].dt.month).sum()
+    meses = int((por_mes >= 0.1 * por_mes.max()).sum()) if len(por_mes) else 12
+    if 1 <= meses < 12:
+        t.loc[ultimo] = float(por_mes[por_mes >= 0.1 * por_mes.max()].sum()) * 12.0 / meses
     return t
 
 
