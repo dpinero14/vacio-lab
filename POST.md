@@ -7,6 +7,11 @@ texto del post lo escribe Diego.
    sentido que no tiene carga de vuelta.** Son 3.460 millones de camiones-km
    por año sobre 8.110, con la matriz oficial de 2018 asignada a la red vial
    por sentido. No es falta de información: es la forma de la economía.
+   Cómo decirlo sin exagerar: por cada 100 camiones cargados que cruzan un
+   tramo en un sentido, 43 no tienen carga que cruce en el otro; si vuelven
+   vacíos por la misma ruta, son 3 de cada 10 kilómetros de camión, contra
+   el 21,6 % que mide Eurostat en Europa. No es "el 43 % de los camiones
+   vuelve vacío".
 2. **Por producto es peor.** Par por par y producto por producto, el 95 % de
    las 245 millones de toneladas que cruzaron entre zonas en 2018 no tuvo
    carga del mismo producto de vuelta en el mismo par. Por grupo, sobre la

@@ -38,6 +38,16 @@ cada tramo, multiplicada por su largo, suma 3.460 millones de camiones-km por
 año sobre 8.110 millones. Ese vacío no lo arregla ninguna aplicación de
 matching: es un camión que llevó soja al puerto y no tiene soja que traer.
 
+Conviene leer bien ese 43 %. La matriz solo cuenta viajes cargados: por cada
+100 camiones cargados que cruzan un tramo en un sentido, 43 no tienen un
+camión cargado que lo cruce en el otro. Si cada uno de esos vuelve vacío por
+la misma ruta, los kilómetros vacíos son el 43 % de los cargados, o sea 3 de
+cada 10 kilómetros de camión en total. Es la cifra comparable con el 21,6 %
+de vehículo-kilómetros vacíos que mide Eurostat en la Unión Europea. No es
+"el 43 % de los camiones vuelve vacío": un camión puede triangular a un tercer
+destino, y dos cargas que se cruzan en un tramo pueden no compartir el mismo
+equipo.
+
 | Ruta | km | Camiones-km por año | Vacíos | % |
 |---|---|---|---|---|
 | RN 9 | 1.926 | 1.323 M | 519 M | 39 |
