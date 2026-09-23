@@ -92,3 +92,49 @@ def yearly(matrices_2018: dict, drivers: pd.DataFrame, arena: pd.Series, anios: 
 
 
 __all__ = ["PRODUCT_DRIVER", "ARENA_ORIGEN", "ARENA_DESTINO", "scale_matrices", "add_sand", "empties_by_group", "yearly"]
+
+
+T_POR_CAMION = 30.0   # toneladas netas por viaje de arena, el mismo supuesto que arena-lab
+
+
+def sand_trucks(arena_t: float, ya_t: float = 0.0, origen: str = ARENA_ORIGEN, destino: str = ARENA_DESTINO, zone_codes: list[str] | None = None) -> pd.DataFrame:
+    """La arena que la matriz no vio, en camiones cargados por año, como matriz de un solo par."""
+    m = pd.DataFrame(0.0, index=zone_codes, columns=zone_codes)
+    m.loc[origen, destino] = max(0.0, arena_t - ya_t) / T_POR_CAMION
+    return m
+
+
+def yearly_links(trucks_2018: dict, drivers: pd.DataFrame, arena: pd.Series, anios: tuple[int, ...], G, links: dict, nodos: dict, zone_codes: list[str], base: int = 2018) -> pd.DataFrame:
+    """Camiones por tramo y sentido para cada año: la matriz de camiones de 2018 escalada por driver más la arena, asignadas a la red.
+
+    Devuelve una tabla larga: anio, id, ab, ba, total, ab_arena, ba_arena.
+    """
+    from .assign import assign, sum_matrices
+    from .drivers import factors
+
+    ya = sum(float(m[ARENA_DESTINO].sum()) for (g, p), m in trucks_2018.items() if p == "arena silicea") * T_POR_CAMION
+    filas = []
+    for a in anios:
+        f = factors(drivers, a, base)
+        m, _ = scale_matrices(trucks_2018, f)
+        total = sum_matrices(m)
+        arena_m = sand_trucks(float(arena.get(a, 0.0)), ya, zone_codes=zone_codes)
+        asig = assign(G, links, nodos, total.add(arena_m, fill_value=0.0))
+        asig_arena = assign(G, links, nodos, arena_m).rename(columns={"ab": "ab_arena", "ba": "ba_arena", "total": "total_arena"})
+        filas.append(asig.merge(asig_arena, on="id").assign(anio=a))
+    return pd.concat(filas, ignore_index=True)
+
+
+def link_empties_by_year(por_anio: pd.DataFrame, net: pd.DataFrame, dias: int = 300) -> pd.DataFrame:
+    """Vacío por tramo y año: ida, vuelta, camiones sin carga de vuelta por día y su fracción, con la etiqueta de ruta."""
+    m = por_anio.merge(net[["id", "km", "etiqueta", "provincia"]], on="id")
+    m["mayor"] = m[["ab", "ba"]].max(axis=1)
+    m["menor"] = m[["ab", "ba"]].min(axis=1)
+    m["vacio"] = m["mayor"] - m["menor"]
+    m["vacio_dia"] = m["vacio"] / dias
+    m["pct_vacio"] = 100.0 * m["vacio"] / m["total"].where(m["total"] > 0)
+    m["vacio_km"] = m["vacio"] * m["km"]
+    return m
+
+
+__all__ += ["T_POR_CAMION", "sand_trucks", "yearly_links", "link_empties_by_year"]

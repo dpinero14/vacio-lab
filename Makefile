@@ -21,6 +21,7 @@ data:
 
 notebooks:
 	$(BIN)/python -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.kernel_name=vacio-lab --ExecutePreprocessor.timeout=3600 notebooks/01_el_mapa_del_vacio.ipynb
+	$(BIN)/python -m jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.kernel_name=vacio-lab --ExecutePreprocessor.timeout=3600 notebooks/02_el_vacio_en_el_tiempo.ipynb
 
 clean:
 	rm -rf data/processed/*.parquet

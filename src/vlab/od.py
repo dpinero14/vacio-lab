@@ -38,7 +38,9 @@ def _zip_path(anio: int, raw: Path = DATA_RAW) -> Path:
 def list_files(anio: int, raw: Path = DATA_RAW) -> list[str]:
     """Las planillas de una edición, con su ruta dentro del zip."""
     with zipfile.ZipFile(_zip_path(anio, raw)) as z:
-        return [n for n in z.namelist() if n.lower().endswith((".xlsx", ".xls")) and "odigos" not in n and "esumen" not in n and "pertura" not in n]
+        # afuera: códigos de zona, resúmenes, aperturas y las planillas de totales por grupo, que repetirían lo ya contado
+        return [n for n in z.namelist() if n.lower().endswith((".xlsx", ".xls")) and "odigos" not in n and "esumen" not in n and "pertura" not in n
+                and "totales" not in n.lower() and "matriz total" not in n.lower()]
 
 
 def _is_int(v) -> bool:
@@ -86,19 +88,35 @@ def parse_sheet(rows: list[tuple], zone_codes: list[str]) -> pd.DataFrame:
     return m.reindex(index=zone_codes, columns=zone_codes).fillna(0.0)
 
 
-def read_workbook(anio: int, name: str, zone_codes: list[str], raw: Path = DATA_RAW) -> dict[str, pd.DataFrame]:
-    """Todas las hojas de una planilla como matrices por producto, nombradas sin el sufijo de unidad y año."""
+def _sheets(anio: int, name: str, raw: Path) -> list[tuple[str, list[tuple]]]:
+    """(título, filas) de cada hoja; xlsx con openpyxl, xls viejo con xlrd."""
+    with zipfile.ZipFile(_zip_path(anio, raw)) as z:
+        data = z.read(name)
+    if name.lower().endswith(".xls"):
+        import xlrd
+
+        wb = xlrd.open_workbook(file_contents=data)
+        return [(ws.name, [tuple(ws.row_values(r)) for r in range(ws.nrows)]) for ws in wb.sheets()]
     import openpyxl
 
-    with zipfile.ZipFile(_zip_path(anio, raw)) as z:
-        wb = openpyxl.load_workbook(io.BytesIO(z.read(name)), read_only=True, data_only=True)
+    wb = openpyxl.load_workbook(io.BytesIO(data), read_only=True, data_only=True)
+    return [(ws.title, list(ws.iter_rows(values_only=True))) for ws in wb.worksheets]
+
+
+def read_workbook(anio: int, name: str, zone_codes: list[str], raw: Path = DATA_RAW, unidad: str | None = None) -> dict[str, pd.DataFrame]:
+    """Todas las hojas de una planilla como matrices por producto, nombradas sin el sufijo de unidad y año.
+
+    Con `unidad` se filtra por el título de la hoja: en 2012 toneladas y camiones conviven en la misma planilla.
+    """
     out = {}
-    for ws in wb.worksheets:
-        rows = list(ws.iter_rows(values_only=True))
+    for titulo, rows in _sheets(anio, name, raw):
+        es_camiones = "camion" in titulo.lower()
+        if unidad == "camiones" and not es_camiones or unidad == "toneladas" and es_camiones:
+            continue
         if len(rows) < 10:
             continue
         try:
-            out[clean_name(ws.title)] = parse_sheet(rows, zone_codes)
+            out[clean_name(titulo)] = parse_sheet(rows, zone_codes)
         except ValueError:
             continue
     return out
@@ -165,16 +183,19 @@ __all__ = ["ANIOS", "zones", "list_files", "parse_sheet", "read_workbook", "clea
 def all_products(anio: int, zone_codes: list[str], unidad: str = "toneladas", raw: Path = DATA_RAW) -> dict[tuple[str, str], pd.DataFrame]:
     """Todas las matrices de una edición, por (grupo, producto), sin las hojas de totales."""
     out = {}
-    for f in list_files(anio, raw):
+    archivos = list_files(anio, raw)
+    por_archivo = any("camion" in f.rsplit("/", 1)[-1].lower() for f in archivos)   # 2014 a 2018 separan la unidad por planilla; 2012 por hoja
+    for f in archivos:
         base = f.rsplit("/", 1)[-1]
         es_camiones = "camion" in base.lower()
-        if (unidad == "camiones") != es_camiones:
+        if por_archivo and (unidad == "camiones") != es_camiones:
             continue
         grupo = re.sub(r"^\d+\.?\d*\s*", "", base)
         grupo = re.sub(r"(?i)matrices?|grupo|toneladas|camiones|x producto|\.xlsx?|\b20\d\d\b", " ", grupo)
         grupo = re.sub(r"\s+", " ", grupo).strip().lower()
-        for producto, m in read_workbook(anio, f, zone_codes, raw).items():
-            if producto.startswith("total") or producto.startswith("grupo") or producto.startswith("hoja"):
+        for producto, m in read_workbook(anio, f, zone_codes, raw, unidad=None if por_archivo else unidad).items():
+            # las hojas de totales del grupo ("total carnes", "matriz combustibles", "matriz total regionales") repetirían los productos
+            if producto.startswith(("total", "grupo", "hoja", "matriz")) or "total" in producto:
                 continue
             out[(grupo, producto)] = m
     return out

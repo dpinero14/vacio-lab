@@ -34,9 +34,23 @@ texto del post lo escribe Diego.
    de sentido está a favor de la salida, pero en productos que no comparten
    camión con lo que entra.
 
+7. **El vacío no cambia con el ciclo; el volumen sí.** Con las cuatro matrices
+   reales asignadas a la red y la de 2018 escalada con series abiertas hasta
+   2026, la fracción vacía va del 42,7 al 45,4 % en quince años. Lo que se
+   mueve es cuánto circula: 12,4 mil millones de camiones-km en 2014, 8,5 en
+   la pandemia y en la sequía de 2023, 9,4 en 2025.
+8. **La arena encuentra sola su ruta.** La asignación por rutas mínimas la manda
+   por la RN 152 y da 558 camiones cargados por día en 2025; arena-lab, con
+   otro método, 561; La Pampa cuenta 1.200 pasadas.
+9. **Un mismo flujo llena una ruta y vacía otra.** La RN 152 pasa de 60 a 73 %
+   vacía y la RN 5 de 14 a 40 %; la RN 151 baja de 40 a 15 % y la RN 35 de 57
+   a 42 %, porque ahí la arena viaja en el sentido que antes volvía vacío.
+10. **El vacío nuevo más grande es el del grano, no el de la arena:** accesos a
+    Rosario y rutas de Entre Ríos, con una cosecha de soja un 35 % mayor.
+
 ## Límites
 
-- Datos de 2018, la última edición publicada; la arena se triplicó desde entonces.
+- La última matriz es de 2018; de 2019 a 2026 es un escenario con drivers, no una medición.
 - Es una estimación oficial a partir de registros administrativos y modelos,
   asignada a una red simplificada de 1.731 tramos; no es un conteo.
 - El vacío por tramo se mide sobre el total de productos; por producto y por
@@ -56,3 +70,4 @@ texto del post lo escribe Diego.
 
 - Repo: https://github.com/dpinero14/vacio-lab
 - Mapa interactivo: https://dpinero14.github.io/vacio-lab/mapa_vacio.html
+- Mapa animado 2012-2026: docs/figures/mapa_vacio_2012_2026.gif

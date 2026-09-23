@@ -20,10 +20,13 @@ pavimento: <https://dpinero14.github.io/vacio-lab/mapa_vacio.html>
 | Notebook | Qué hace |
 |---|---|
 | `01_el_mapa_del_vacio` | Lee las matrices origen-destino de 2012 a 2018 (123 zonas, 113 productos, en toneladas y en camiones) y la red vial con el flujo de camiones por sentido. Mide el vacío estructural por par de zonas, por producto y por tramo de ruta. Toma la arena de fractura como caso extremo y busca qué podría volver cargado desde Neuquén. Dibuja el mapa. |
+| `02_el_vacio_en_el_tiempo` | Asigna las matrices a la red con rutas mínimas y valida el método contra la asignación oficial de 2018. Lleva el vacío hacia atrás con las matrices reales de 2012, 2014 y 2016, y hacia adelante escalando cada producto de 2018 con series abiertas (cosecha, ventas de combustibles, cemento, industria) y sumando la arena de fractura que la matriz no veía. Vacío por tramo y por año, 2012 a 2026, las rutas de la arena y el mapa animado. |
 
 Las funciones están en `src/vlab/`: `od.py` lee las planillas, que cambian de
 formato en cada edición, y mide el desbalance por par; `network.py` carga la
-red y mide el vacío por tramo; `maps.py` dibuja. Todo testeado con matrices y
+red y mide el vacío por tramo; `assign.py` asigna una matriz a la red;
+`drivers.py` trae las series que mueven cada carga; `projection.py` escala la
+matriz y suma la arena; `maps.py` y `figures.py` dibujan. Todo testeado con matrices y
 redes sintéticas; el notebook narra.
 
 ## Qué encontramos
@@ -69,6 +72,41 @@ la batea de arena que vuelve al norte. Lo que sí va al norte son las peras y
 manzanas del Alto Valle, casi un millón de toneladas, en pallets y con frío.
 El vacío de la arena es estructural dos veces: por dirección y por equipo.
 
+## El vacío en el tiempo
+
+**La fracción vacía no cambia con el ciclo; el volumen sí.** Con las matrices
+reales de 2012, 2014, 2016 y 2018 asignadas a la red, y de 2019 en adelante la
+matriz de 2018 escalada producto por producto con series abiertas, la red va
+del 42,7 al 45,4 % de camiones-kilómetro sin carga de vuelta en quince años.
+Lo que se mueve es cuánto circula: 12,4 mil millones de camiones-km en 2014,
+8,5 en el pozo de 2020 y en la sequía de 2023, 9,4 en 2025.
+
+![El vacío en el tiempo](docs/figures/vacio_en_el_tiempo.png)
+
+**La asignación propia reproduce la oficial, y la arena sola encuentra su
+ruta.** Comparada con la asignación de la Secretaría para 2018: correlación
+0,86 por tramo, 5 % más de camiones-kilómetro, sentido correcto en la mayoría.
+Y sin que nadie se lo indique, la asignación manda la arena de Entre Ríos a
+Neuquén por la RN 152: 558 camiones cargados por día en 2025, contra 561 de
+arena-lab con otro método y las 1.200 pasadas que cuenta La Pampa.
+
+**Un mismo flujo agranda el vacío en una ruta y lo achica en la siguiente.**
+Entre 2018 y 2025 la RN 152 pasa de 60 a 73 % vacía y la RN 5 de 14 a 40 %,
+porque la arena va en el sentido que ya estaba cargado. Pero la RN 151 baja de
+40 a 15 % y la RN 35 de 57 a 42 %: ahí la arena viaja en el sentido que antes
+volvía vacío, y lo llena.
+
+**El vacío nuevo más grande no es el de la arena.** Son los accesos a Rosario
+y las rutas de Entre Ríos, RN 33, RN 14 y RN 12, empujados por una cosecha de
+soja un 35 % mayor que la de 2018. La arena aparece en los mismos tramos de
+Entre Ríos con un 11 a 12 % del tránsito. El grano sigue siendo el vacío del
+país; la arena es el vacío de un corredor.
+
+![El mapa del vacío, 2012 a 2026](docs/figures/mapa_vacio_2012_2026.gif)
+
+Todo lo de 2019 en adelante es un escenario, no una medición, y así se marca
+en cada figura.
+
 ## Datos
 
 Todo abierto y verificado el 22 de septiembre de 2026: ver `data/README.md`.
@@ -88,8 +126,12 @@ python -m venv .venv
 
 ## Limitaciones
 
-- Los datos son de 2018, la última edición publicada. Vaca Muerta triplicó su
-  arena desde entonces, y la matriz de ese año ya no la veía.
+- La última matriz publicada es de 2018. De 2019 en adelante todo es un
+  escenario: la matriz de 2018 con otros volúmenes por producto, con 50 de los
+  111 productos escalados por un driver y el resto planos.
+- La asignación propia difiere de la oficial en un 5 % de camiones-kilómetro y
+  tiene menos detalle en los accesos urbanos. Las ediciones de 2012 a 2016
+  cambiaron de método entre sí; el salto de 2014 puede ser de método.
 - La matriz es una estimación oficial a partir de registros administrativos
   (SENASA, cartas de porte, permisos) y modelos, asignada a una red vial
   simplificada. No es un conteo de camiones.
@@ -102,7 +144,6 @@ python -m venv .venv
 
 ## Próximos pasos
 
-- Comparar 2012, 2014, 2016 y 2018: cómo cambió el vacío con la economía.
 - El mismo notebook sobre la matriz FAF5 de Estados Unidos y los datos de
   Eurostat, donde el 21,6 % de los vehículo-km se hace vacío.
 - Cruzar el vacío con el estado del pavimento, que viene en el mismo dato.
@@ -114,8 +155,10 @@ python -m venv .venv
   <https://datos.transporte.gob.ar/dataset/matriz-od-vial-cargas>
 - IDE Transporte, capas `Carga transportada ... 2018` por WFS:
   <https://ide.transporte.gob.ar/geoserver>
+- API de series de tiempo de datos.gob.ar (Secretaría de Energía, AFCP, INDEC, ADEFA) y estimaciones agrícolas del MAGyP
+  (datos.magyp.gob.ar), como drivers de la proyección.
 - Secretaría de Energía, registro de fractura por pozo (Adjunto IV), usado
-  para la comparación de la arena: <http://datos.energia.gob.ar/dataset/datos-de-fractura-de-pozos-adjunto-iv>
+  para la comparación de la arena y como driver: <http://datos.energia.gob.ar/dataset/datos-de-fractura-de-pozos-adjunto-iv>
 - Geocodificación de centroides: OpenStreetMap, Nominatim (ODbL).
 
 Código con licencia MIT.
