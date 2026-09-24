@@ -26,7 +26,11 @@ CODIGO = re.compile(r"^[A-Z]{3}$")
 
 def zones(raw: Path = DATA_RAW) -> pd.DataFrame:
     """Las zonas de tráfico con su centroide geocodificado: id, codigo, provincia, centroide, lon, lat."""
-    c = json.loads((raw / "centroides_zonas.json").read_text(encoding="utf-8"))
+    # los centroides se geocodificaron una vez (Nominatim, OpenStreetMap, ODbL) y viajan con el paquete;
+    # si hay una copia en data/raw, manda esa
+    local = raw / "centroides_zonas.json"
+    fuente = local if local.exists() else Path(__file__).with_name("centroides_zonas.json")
+    c = json.loads(fuente.read_text(encoding="utf-8"))
     df = pd.DataFrame(list(c.values())).sort_values("id").reset_index(drop=True)
     return df[["id", "codigo", "provincia", "centroide", "lon", "lat"]]
 

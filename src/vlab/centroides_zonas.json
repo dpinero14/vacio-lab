@@ -1,0 +1,1109 @@
+{
+ "ACA": {
+  "id": 1,
+  "codigo": "ACA",
+  "provincia": "SALTA",
+  "centroide": "CAFAYATE",
+  "lon": -65.9760315,
+  "lat": -26.0729166,
+  "match": "Cafayate, Salta, A4427AHB, Argentina"
+ },
+ "ACP": {
+  "id": 2,
+  "codigo": "ACP",
+  "provincia": "SALTA",
+  "centroide": "SALTA",
+  "lon": -65.4103194,
+  "lat": -24.7892946,
+  "match": "Salta, Capital, Salta, Argentina"
+ },
+ "AME": {
+  "id": 3,
+  "codigo": "AME",
+  "provincia": "SALTA",
+  "centroide": "METAN",
+  "lon": -64.971005,
+  "lat": -25.4969744,
+  "match": "Metán, Municipio de Metán, San José de Metán, Salta, 4440, Argentina"
+ },
+ "ATA": {
+  "id": 4,
+  "codigo": "ATA",
+  "provincia": "SALTA",
+  "centroide": "TARTAGAL",
+  "lon": -63.7986328,
+  "lat": -22.5194493,
+  "match": "Tartagal, Municipio de Tartagal, General San Martín, Salta, Argentina"
+ },
+ "BAR": {
+  "id": 5,
+  "codigo": "BAR",
+  "provincia": "BUENOS AIRES",
+  "centroide": "ARRECIFES",
+  "lon": -60.108738,
+  "lat": -34.0674983,
+  "match": "Arrecifes, Partido de Arrecifes, Buenos Aires, Argentina"
+ },
+ "BBB": {
+  "id": 6,
+  "codigo": "BBB",
+  "provincia": "BUENOS AIRES",
+  "centroide": "BAHIA BLANCA",
+  "lon": -62.2654871,
+  "lat": -38.7176522,
+  "match": "Bahía Blanca, Cuartel I, Partido de Bahía Blanca, Buenos Aires, Argentina"
+ },
+ "BBO": {
+  "id": 7,
+  "codigo": "BBO",
+  "provincia": "BUENOS AIRES",
+  "centroide": "BOLIVAR",
+  "lon": -58.3741113,
+  "lat": -34.6097375,
+  "match": "Bolívar, Avenida Presidente Julio A. Roca, Monserrat, Buenos Aires, Comuna 1, Ci"
+ },
+ "BBR": {
+  "id": 8,
+  "codigo": "BBR",
+  "provincia": "BUENOS AIRES",
+  "centroide": "BRAGADO",
+  "lon": -60.489771,
+  "lat": -35.1155766,
+  "match": "Bragado, Partido de Bragado, Buenos Aires, Argentina"
+ },
+ "BCA": {
+  "id": 9,
+  "codigo": "BCA",
+  "provincia": "BUENOS AIRES",
+  "centroide": "CARHUE",
+  "lon": -62.7494197,
+  "lat": -37.1799683,
+  "match": "Carhué, Ramón Razquin, Centro, Carhué, Partido de Adolfo Alsina, Buenos Aires, 6"
+ },
+ "BCB": {
+  "id": 10,
+  "codigo": "BCB",
+  "provincia": "BUENOS AIRES",
+  "centroide": "CHACABUCO",
+  "lon": -60.470185,
+  "lat": -34.6297043,
+  "match": "Chacabuco, Acceso a la estación, Chacabuco, Partido de Chacabuco, Buenos Aires, "
+ },
+ "BCH": {
+  "id": 11,
+  "codigo": "BCH",
+  "provincia": "BUENOS AIRES",
+  "centroide": "CHASCOMUS",
+  "lon": -58.0138252,
+  "lat": -35.5786869,
+  "match": "Chascomús, Partido de Chascomús, Buenos Aires, Argentina"
+ },
+ "BCP": {
+  "id": 12,
+  "codigo": "BCP",
+  "provincia": "BUENOS AIRES",
+  "centroide": "CABA",
+  "lon": -58.3727355,
+  "lat": -34.6048076,
+  "match": "Banco Central la República Argentina, 266, Reconquista, Microcentro, San Nicolás"
+ },
+ "BDA": {
+  "id": 13,
+  "codigo": "BDA",
+  "provincia": "BUENOS AIRES",
+  "centroide": "DARREGUEIRA",
+  "lon": -63.1609042,
+  "lat": -37.689386,
+  "match": "Darregueira, Cuartel IV, Partido de Puan, Buenos Aires, Argentina"
+ },
+ "BDO": {
+  "id": 14,
+  "codigo": "BDO",
+  "provincia": "BUENOS AIRES",
+  "centroide": "DORREGO",
+  "lon": -58.4474918,
+  "lat": -34.5917642,
+  "match": "Dorrego, Avenida Corrientes, Chacarita, Buenos Aires, Distrito Audiovisual, Comu"
+ },
+ "BJU": {
+  "id": 16,
+  "codigo": "BJU",
+  "provincia": "BUENOS AIRES",
+  "centroide": "JUNIN",
+  "lon": -60.9461678,
+  "lat": -34.5934412,
+  "match": "Junín, Partido de Junín, Buenos Aires, Argentina"
+ },
+ "BLF": {
+  "id": 17,
+  "codigo": "BLF",
+  "provincia": "BUENOS AIRES",
+  "centroide": "LAS FLORES",
+  "lon": -59.0998685,
+  "lat": -36.0142754,
+  "match": "Las Flores, Partido de Las Flores, Buenos Aires, B7200, Argentina"
+ },
+ "BLI": {
+  "id": 18,
+  "codigo": "BLI",
+  "provincia": "BUENOS AIRES",
+  "centroide": "LINCOLN",
+  "lon": -61.5296207,
+  "lat": -34.8683517,
+  "match": "Lincoln, Partido de Lincoln, Buenos Aires, B6070, Argentina"
+ },
+ "BLO": {
+  "id": 19,
+  "codigo": "BLO",
+  "provincia": "BUENOS AIRES",
+  "centroide": "LOBOS",
+  "lon": -59.0978393,
+  "lat": -35.1856322,
+  "match": "Lobos, Partido de Lobos, Buenos Aires, Argentina"
+ },
+ "BMA": {
+  "id": 20,
+  "codigo": "BMA",
+  "provincia": "BUENOS AIRES",
+  "centroide": "MAIPU",
+  "lon": -59.5040171,
+  "lat": -33.8100232,
+  "match": "Maipu, Baradero, Partido de Baradero, Buenos Aires, Argentina"
+ },
+ "BME": {
+  "id": 21,
+  "codigo": "BME",
+  "provincia": "BUENOS AIRES",
+  "centroide": "MERCEDES",
+  "lon": -59.4317202,
+  "lat": -34.6506717,
+  "match": "Mercedes, Partido de Mercedes, Buenos Aires, Argentina"
+ },
+ "BMO": {
+  "id": 22,
+  "codigo": "BMO",
+  "provincia": "BUENOS AIRES",
+  "centroide": "MONTE",
+  "lon": -58.8175325,
+  "lat": -35.4366828,
+  "match": "Monte, Ruta Nacional 3 Don Juan Manuel de Rosas, Centro, San Miguel del Monte, P"
+ },
+ "BMP": {
+  "id": 23,
+  "codigo": "BMP",
+  "provincia": "BUENOS AIRES",
+  "centroide": "MAR DEL PLATA",
+  "lon": -57.5482079,
+  "lat": -37.9976168,
+  "match": "Mar del Plata, Partido de General Pueyrredón, Buenos Aires, Argentina"
+ },
+ "BNE": {
+  "id": 24,
+  "codigo": "BNE",
+  "provincia": "BUENOS AIRES",
+  "centroide": "NECOCHEA",
+  "lon": -58.7392624,
+  "lat": -38.5545494,
+  "match": "Necochea, Partido de Necochea, Buenos Aires, Argentina"
+ },
+ "BNU": {
+  "id": 25,
+  "codigo": "BNU",
+  "provincia": "BUENOS AIRES",
+  "centroide": "9 DE JULIO",
+  "lon": -60.8845839,
+  "lat": -35.4439161,
+  "match": "9 de Julio, Nueve de Julio, Partido de Nueve de Julio, Buenos Aires, Argentina"
+ },
+ "BOL": {
+  "id": 26,
+  "codigo": "BOL",
+  "provincia": "BUENOS AIRES",
+  "centroide": "OLAVARRIA",
+  "lon": -60.3231676,
+  "lat": -36.8938752,
+  "match": "Olavarría, Partido de Olavarría, Buenos Aires, B7400, Argentina"
+ },
+ "BPE": {
+  "id": 27,
+  "codigo": "BPE",
+  "provincia": "BUENOS AIRES",
+  "centroide": "PERGAMINO",
+  "lon": -60.575046,
+  "lat": -33.897495,
+  "match": "Pergamino, Partido de Pergamino, Buenos Aires, Argentina"
+ },
+ "BPI": {
+  "id": 28,
+  "codigo": "BPI",
+  "provincia": "BUENOS AIRES",
+  "centroide": "PIGUE",
+  "lon": -58.6334622,
+  "lat": -34.5868317,
+  "match": "Pigue, Villa Club, Hurlingham, Partido de Hurlingham, Buenos Aires, 1686, Argent"
+ },
+ "BPO": {
+  "id": 29,
+  "codigo": "BPO",
+  "provincia": "BUENOS AIRES",
+  "centroide": "PEHUAJO",
+  "lon": -61.899055,
+  "lat": -35.8104933,
+  "match": "Pehuajó, Partido de Pehuajó, Buenos Aires, Argentina"
+ },
+ "BPR": {
+  "id": 30,
+  "codigo": "BPR",
+  "provincia": "BUENOS AIRES",
+  "centroide": "CORONEL PRINGLES",
+  "lon": -61.3690018,
+  "lat": -37.9632996,
+  "match": "Coronel Pringles (Roca), Palmiro Milani, Coronel Pringles, Cuartel XIV, Partido "
+ },
+ "BSA": {
+  "id": 31,
+  "codigo": "BSA",
+  "provincia": "BUENOS AIRES",
+  "centroide": "S.A. ARECO",
+  "lon": -59.4737016,
+  "lat": -34.2461723,
+  "match": "Banco Nación, 250, Valentín Alsina, San Antonio de Areco, Partido de San Antonio"
+ },
+ "BSG": {
+  "id": 32,
+  "codigo": "BSG",
+  "provincia": "BUENOS AIRES",
+  "centroide": "S.A. DE GILES",
+  "lon": -59.4537994,
+  "lat": -34.4631668,
+  "match": "Sociedad Rural Argentina, Ruta Provincial 41 Presidente Héctor José Cámpora, Rib"
+ },
+ "BSN": {
+  "id": 33,
+  "codigo": "BSN",
+  "provincia": "BUENOS AIRES",
+  "centroide": "SAN NICOLAS",
+  "lon": -60.2165909,
+  "lat": -33.3277089,
+  "match": "San Nicolás de los Arroyos, Partido de San Nicolás, Buenos Aires, Argentina"
+ },
+ "BSO": {
+  "id": 34,
+  "codigo": "BSO",
+  "provincia": "BUENOS AIRES",
+  "centroide": "SALADILLO",
+  "lon": -59.7794241,
+  "lat": -35.6388525,
+  "match": "Saladillo, Partido de Saladillo, Buenos Aires, Argentina"
+ },
+ "BSP": {
+  "id": 35,
+  "codigo": "BSP",
+  "provincia": "BUENOS AIRES",
+  "centroide": "SAN PEDRO",
+  "lon": -59.6629342,
+  "lat": -33.6760716,
+  "match": "San Pedro, Partido de San Pedro, Buenos Aires, Argentina"
+ },
+ "BTA": {
+  "id": 36,
+  "codigo": "BTA",
+  "provincia": "BUENOS AIRES",
+  "centroide": "TANDIL",
+  "lon": -59.1356957,
+  "lat": -37.3282887,
+  "match": "Tandil, Partido de Tandil, Buenos Aires, Argentina"
+ },
+ "BTL": {
+  "id": 37,
+  "codigo": "BTL",
+  "provincia": "BUENOS AIRES",
+  "centroide": "TRENQUE LAUQUEN",
+  "lon": -62.7328794,
+  "lat": -35.9731074,
+  "match": "Trenque Lauquen, Partido de Trenque Lauquen, Buenos Aires, Argentina"
+ },
+ "BTR": {
+  "id": 38,
+  "codigo": "BTR",
+  "provincia": "BUENOS AIRES",
+  "centroide": "TRES ARROYOS",
+  "lon": -60.2755685,
+  "lat": -38.3770014,
+  "match": "Tres Arroyos, Partido de Tres Arroyos, Buenos Aires, B7500, Argentina"
+ },
+ "BZA": {
+  "id": 39,
+  "codigo": "BZA",
+  "provincia": "BUENOS AIRES",
+  "centroide": "ZARATE",
+  "lon": -59.0245097,
+  "lat": -34.0954713,
+  "match": "Zárate, Partido de Zárate, Buenos Aires, 2800, Argentina"
+ },
+ "CBV": {
+  "id": 40,
+  "codigo": "CBV",
+  "provincia": "CORDOBA",
+  "centroide": "BELL VILLE",
+  "lon": -62.6888782,
+  "lat": -32.6300707,
+  "match": "Municipio de Bell Ville, Pedanía Bell Ville, Departamento Unión, Córdoba, X2550,"
+ },
+ "CCP": {
+  "id": 41,
+  "codigo": "CCP",
+  "provincia": "CORDOBA",
+  "centroide": "CORDOBA",
+  "lon": -64.1834193,
+  "lat": -31.4166867,
+  "match": "Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X"
+ },
+ "CDF": {
+  "id": 42,
+  "codigo": "CDF",
+  "provincia": "CORDOBA",
+  "centroide": "DEAN FUNES",
+  "lon": -64.3527199,
+  "lat": -30.4249487,
+  "match": "Deán Funes, Municipio de Deán Funes, Pedanía Toyos, Departamento Ischilín, Córdo"
+ },
+ "CHR": {
+  "id": 43,
+  "codigo": "CHR",
+  "provincia": "CORDOBA",
+  "centroide": "HUINCA RENANCO",
+  "lon": -64.1672683,
+  "lat": -31.4420707,
+  "match": "Huinca Renanco, Cabaña del Pilar, Córdoba, Municipio de Córdoba, Pedanía Capital"
+ },
+ "CLA": {
+  "id": 44,
+  "codigo": "CLA",
+  "provincia": "CORDOBA",
+  "centroide": "LABOULAYE",
+  "lon": -63.3905826,
+  "lat": -34.1286369,
+  "match": "Municipio de Laboulaye, Pedanía La Amarga, Departamento Presidente Roque Sáenz P"
+ },
+ "CLC": {
+  "id": 45,
+  "codigo": "CLC",
+  "provincia": "CORDOBA",
+  "centroide": "LA CARLOTA",
+  "lon": -63.2934951,
+  "lat": -33.4179364,
+  "match": "La Carlota, Municipio de La Carlota, Pedanía La Carlota, Departamento Juárez Cel"
+ },
+ "CRC": {
+  "id": 46,
+  "codigo": "CRC",
+  "provincia": "CORDOBA",
+  "centroide": "RIO CUARTO",
+  "lon": -64.3489782,
+  "lat": -33.1237585,
+  "match": "Río Cuarto, Municipio de Río Cuarto, Pedanía Río Cuarto, Departamento Río Cuarto"
+ },
+ "CSF": {
+  "id": 47,
+  "codigo": "CSF",
+  "provincia": "CORDOBA",
+  "centroide": "SAN FRANCISCO",
+  "lon": -62.0840299,
+  "lat": -31.4249815,
+  "match": "San Francisco, Municipio de San Francisco, Pedanía Juárez Celman, Departamento S"
+ },
+ "CVD": {
+  "id": 48,
+  "codigo": "CVD",
+  "provincia": "CORDOBA",
+  "centroide": "VILLA DOLORES",
+  "lon": -65.1902298,
+  "lat": -31.9449632,
+  "match": "Villa Dolores, Municipio de Villa Dolores, Pedanía Dolores, Departamento San Jav"
+ },
+ "CVM": {
+  "id": 49,
+  "codigo": "CVM",
+  "provincia": "CORDOBA",
+  "centroide": "VILLA MARIA",
+  "lon": -63.2435809,
+  "lat": -32.4106245,
+  "match": "Villa María, Municipio de Villa María, Pedanía Villa María, Departamento General"
+ },
+ "DCH": {
+  "id": 50,
+  "codigo": "DCH",
+  "provincia": "LA RIOJA",
+  "centroide": "CHEPES",
+  "lon": -66.5919849,
+  "lat": -31.3378908,
+  "match": "Chepes, Departamento Rosario Vera Peñaloza, La Rioja, F5470, Argentina"
+ },
+ "DCO": {
+  "id": 51,
+  "codigo": "DCO",
+  "provincia": "LA RIOJA",
+  "centroide": "CHILECITO",
+  "lon": -67.4953596,
+  "lat": -29.165001,
+  "match": "Chilecito, Departamento Chilecito, La Rioja, F5360, Argentina"
+ },
+ "DCP": {
+  "id": 52,
+  "codigo": "DCP",
+  "provincia": "LA RIOJA",
+  "centroide": "LA RIOJA",
+  "lon": -66.8558795,
+  "lat": -29.4127411,
+  "match": "La Rioja, Departamento Capital, La Rioja, F5300, Argentina"
+ },
+ "ECO": {
+  "id": 53,
+  "codigo": "ECO",
+  "provincia": "ENTRE RIOS",
+  "centroide": "CONCORDIA",
+  "lon": -58.0263642,
+  "lat": -31.3401914,
+  "match": "Concordia, Distrito Suburbios, Departamento Concordia, Entre Ríos, Argentina"
+ },
+ "ECP": {
+  "id": 54,
+  "codigo": "ECP",
+  "provincia": "ENTRE RIOS",
+  "centroide": "PARANÁ",
+  "lon": -60.5298511,
+  "lat": -31.7330145,
+  "match": "Paraná, Municipio de Paraná, Distrito Sauce, Departamento Paraná, Entre Ríos, Ar"
+ },
+ "EGU": {
+  "id": 55,
+  "codigo": "EGU",
+  "provincia": "ENTRE RIOS",
+  "centroide": "GUALEGUAYCHU",
+  "lon": -58.5109859,
+  "lat": -33.0078908,
+  "match": "Gualeguaychú, Distrito Costa Uruguay Sur, Departamento Gualeguaychú, Entre Ríos,"
+ },
+ "ENO": {
+  "id": 56,
+  "codigo": "ENO",
+  "provincia": "ENTRE RIOS",
+  "centroide": "NOGOYA",
+  "lon": -59.787777,
+  "lat": -32.3985574,
+  "match": "Nogoyá, Distrito Montoya, Departamento Nogoyá, Entre Ríos, Argentina"
+ },
+ "ERT": {
+  "id": 57,
+  "codigo": "ERT",
+  "provincia": "ENTRE RIOS",
+  "centroide": "ROSARIO DEL TALA",
+  "lon": -59.138887,
+  "lat": -32.3008178,
+  "match": "Rosario del Tala, Distrito Pueblo Segundo, Departamento Tala, Entre Ríos, E3174Z"
+ },
+ "FCL": {
+  "id": 58,
+  "codigo": "FCL",
+  "provincia": "FORMOSA",
+  "centroide": "CLORINDA",
+  "lon": -57.7125898,
+  "lat": -25.2900303,
+  "match": "Clorinda, Municipio de Clorinda, Departamento Pilcomayo, Formosa, 3610, Argentin"
+ },
+ "FCP": {
+  "id": 59,
+  "codigo": "FCP",
+  "provincia": "FORMOSA",
+  "centroide": "FORMOSA",
+  "lon": -58.1744976,
+  "lat": -26.1852983,
+  "match": "Municipio de Formosa, Departamento Formosa, Formosa, Argentina"
+ },
+ "FLL": {
+  "id": 60,
+  "codigo": "FLL",
+  "provincia": "FORMOSA",
+  "centroide": "LAS LOMITAS",
+  "lon": -60.5942732,
+  "lat": -24.7075268,
+  "match": "Las Lomitas, Municipio de Las Lomitas, Departamento Patiño, Formosa, P3630, Arge"
+ },
+ "GCD": {
+  "id": 61,
+  "codigo": "GCD",
+  "provincia": "SANTIAGO DEL ESTERO",
+  "centroide": "C.DORA",
+  "lon": -62.9499986,
+  "lat": -28.5999978,
+  "match": "Colonia Dora, Municipio de Colonia Dora, Departamento Avellaneda, Santiago del E"
+ },
+ "GCP": {
+  "id": 62,
+  "codigo": "GCP",
+  "provincia": "SANTIAGO DEL ESTERO",
+  "centroide": "SANTIAGO DEL ESTERO",
+  "lon": -64.2595062,
+  "lat": -27.7877148,
+  "match": "Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francis"
+ },
+ "GFR": {
+  "id": 63,
+  "codigo": "GFR",
+  "provincia": "SANTIAGO DEL ESTERO",
+  "centroide": "FRIAS",
+  "lon": -65.1288391,
+  "lat": -28.6377023,
+  "match": "Frías, Municipio de Frías, Departamento Choya, Santiago del Estero, G4243, Argen"
+ },
+ "GMQ": {
+  "id": 64,
+  "codigo": "GMQ",
+  "provincia": "SANTIAGO DEL ESTERO",
+  "centroide": "MONTE QUEMADO",
+  "lon": -62.8303622,
+  "lat": -25.8034931,
+  "match": "Monte Quemado, Municipio de Monte Quemado, Departamento Copo, Santiago del Ester"
+ },
+ "GQU": {
+  "id": 65,
+  "codigo": "GQU",
+  "provincia": "SANTIAGO DEL ESTERO",
+  "centroide": "QUIMILI",
+  "lon": -62.4174351,
+  "lat": -27.6446881,
+  "match": "Quimilí, Municipio de Quimilí, Departamento Moreno, Santiago del Estero, G3740, "
+ },
+ "GSU": {
+  "id": 66,
+  "codigo": "GSU",
+  "provincia": "SANTIAGO DEL ESTERO",
+  "centroide": "SUMAMPA",
+  "lon": -63.4728569,
+  "lat": -29.3830617,
+  "match": "Sumampa, Municipio de Sumampa, Departamento Quebrachos, Santiago del Estero, G52"
+ },
+ "HCP": {
+  "id": 67,
+  "codigo": "HCP",
+  "provincia": "CHACO",
+  "centroide": "RESISTENCIA",
+  "lon": -59.1932003,
+  "lat": -27.6048829,
+  "match": "Municipio de Resistencia, Departamento San Fernando, Chaco, Argentina"
+ },
+ "HJC": {
+  "id": 68,
+  "codigo": "HJC",
+  "provincia": "CHACO",
+  "centroide": "JUAN JOSE CASTELLI",
+  "lon": -60.6200235,
+  "lat": -25.9467092,
+  "match": "Municipio de Juan José Castelli, Departamento General Güemes, Chaco, 3703, Argen"
+ },
+ "HSP": {
+  "id": 69,
+  "codigo": "HSP",
+  "provincia": "CHACO",
+  "centroide": "PRESIDENCIA SAENZ PEÑA",
+  "lon": -60.4450201,
+  "lat": -26.7640865,
+  "match": "República Argentina, Barrio Parque Norte, Presidencia Roque Sáenz Peña, Municipi"
+ },
+ "HVA": {
+  "id": 70,
+  "codigo": "HVA",
+  "provincia": "CHACO",
+  "centroide": "VILLA ANGELA",
+  "lon": -60.7112067,
+  "lat": -27.5768225,
+  "match": "Municipio de Villa Ángela, Departamento Mayor Luis Jorge Fontana, Chaco, 3540, A"
+ },
+ "JCP": {
+  "id": 71,
+  "codigo": "JCP",
+  "provincia": "SAN JUAN",
+  "centroide": "SAN JUAN",
+  "lon": -68.5251802,
+  "lat": -31.5370909,
+  "match": "San Juan, Capital, San Juan, J5402DEA, Argentina"
+ },
+ "JJA": {
+  "id": 72,
+  "codigo": "JJA",
+  "provincia": "SAN JUAN",
+  "centroide": "JACHAL",
+  "lon": -68.4505942,
+  "lat": -30.3101086,
+  "match": "Jáchal, San Juan, Argentina"
+ },
+ "KAN": {
+  "id": 73,
+  "codigo": "KAN",
+  "provincia": "CATAMARCA",
+  "centroide": "ANDALGALA",
+  "lon": -66.3154994,
+  "lat": -27.5830261,
+  "match": "Andalgala, Municipio de Andalgalá, Departamento Andalgalá, Catamarca, K4740, Arg"
+ },
+ "KBE": {
+  "id": 74,
+  "codigo": "KBE",
+  "provincia": "CATAMARCA",
+  "centroide": "BELÉN",
+  "lon": -67.0263616,
+  "lat": -27.6495962,
+  "match": "Belén, Municipio de Belén, Departamento Belén, Catamarca, K4750, Argentina"
+ },
+ "KCP": {
+  "id": 75,
+  "codigo": "KCP",
+  "provincia": "CATAMARCA",
+  "centroide": "CATAMARCA",
+  "lon": -65.7790642,
+  "lat": -28.4688806,
+  "match": "San Fernando del Valle de Catamarca, Municipio de San Fernando del Valle de Cata"
+ },
+ "LBA": {
+  "id": 76,
+  "codigo": "LBA",
+  "provincia": "SAN LUIS",
+  "centroide": "BUENA ESPERANZA",
+  "lon": -65.2535837,
+  "lat": -34.7578641,
+  "match": "Buena Esperanza, Municipio de Buena Esperanza, Gobernador Dupuy, San Luis, D6277"
+ },
+ "LCP": {
+  "id": 77,
+  "codigo": "LCP",
+  "provincia": "SAN LUIS",
+  "centroide": "SAN LUIS",
+  "lon": -66.3369577,
+  "lat": -33.3020736,
+  "match": "Municipio de San Luis, Juan Martín de Pueyrredón, San Luis, Argentina"
+ },
+ "LVM": {
+  "id": 78,
+  "codigo": "LVM",
+  "provincia": "SAN LUIS",
+  "centroide": "V. MERCEDES",
+  "lon": -65.4954266,
+  "lat": -33.6866361,
+  "match": "Villa Mercedes, Municipio de Villa Mercedes, General Pedernera, San Luis, D5730,"
+ },
+ "MCP": {
+  "id": 79,
+  "codigo": "MCP",
+  "provincia": "MENDOZA",
+  "centroide": "MENDOZA",
+  "lon": -68.8446177,
+  "lat": -32.8894155,
+  "match": "Ciudad de Mendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mendoza, Arge"
+ },
+ "MSR": {
+  "id": 80,
+  "codigo": "MSR",
+  "provincia": "MENDOZA",
+  "centroide": "SAN RAFAEL",
+  "lon": -68.330514,
+  "lat": -34.6126025,
+  "match": "Distrito Ciudad de San Rafael, Departamento San Rafael, Mendoza, Argentina"
+ },
+ "NCP": {
+  "id": 81,
+  "codigo": "NCP",
+  "provincia": "MISIONES",
+  "centroide": "POSADAS",
+  "lon": -55.894295,
+  "lat": -27.3664824,
+  "match": "Municipio de Posadas, Departamento Capital, Misiones, Argentina"
+ },
+ "NIG": {
+  "id": 82,
+  "codigo": "NIG",
+  "provincia": "MISIONES",
+  "centroide": "IGUAZU",
+  "lon": -54.4411144,
+  "lat": -25.6925323,
+  "match": "Cataratas del Iguazú, Paseo Inferior, Municipio de Puerto Iguazú, Departamento I"
+ },
+ "NOB": {
+  "id": 83,
+  "codigo": "NOB",
+  "provincia": "MISIONES",
+  "centroide": "OBERÁ",
+  "lon": -55.1202965,
+  "lat": -27.4849798,
+  "match": "Oberá, Municipio de Oberá, Departamento Oberá, Misiones, Argentina"
+ },
+ "OCP": {
+  "id": 84,
+  "codigo": "OCP",
+  "provincia": "TIERRA DEL FUEGO",
+  "centroide": "USHUAIA",
+  "lon": -68.2963238,
+  "lat": -54.8033672,
+  "match": "Museo Marítimo de Ushuaia, Yaganes, Base Naval, Ushuaia, Departamento Ushuaia, V"
+ },
+ "ORG": {
+  "id": 85,
+  "codigo": "ORG",
+  "provincia": "TIERRA DEL FUEGO",
+  "centroide": "RIO GRANDE",
+  "lon": -67.7018562,
+  "lat": -53.7858275,
+  "match": "Municipio de Río Grande, Departamento Río Grande, Tierra del Fuego, V9420, Argen"
+ },
+ "PCP": {
+  "id": 86,
+  "codigo": "PCP",
+  "provincia": "LA PAMPA",
+  "centroide": "STA. ROSA",
+  "lon": -64.2905765,
+  "lat": -36.6203503,
+  "match": "Santa Rosa, Municipio de Santa Rosa, Departamento Capital, La Pampa, Argentina"
+ },
+ "PGA": {
+  "id": 87,
+  "codigo": "PGA",
+  "provincia": "LA PAMPA",
+  "centroide": "GRAL. ACHA",
+  "lon": -64.6049863,
+  "lat": -37.3782502,
+  "match": "Gral. Roca, General Acha, Municipio de General Acha, Departamento Utracán, La Pa"
+ },
+ "PGP": {
+  "id": 88,
+  "codigo": "PGP",
+  "provincia": "LA PAMPA",
+  "centroide": "GRAL. PICO",
+  "lon": -63.7702115,
+  "lat": -35.6545891,
+  "match": "Club Sportivo Independiente Gral Pico, Calle 10 bis Norte, Norte, General Pico, "
+ },
+ "PVE": {
+  "id": 89,
+  "codigo": "PVE",
+  "provincia": "LA PAMPA",
+  "centroide": "25 DE MAYO",
+  "lon": -67.7176368,
+  "lat": -37.7707789,
+  "match": "Municipio de 25 de Mayo, Departamento Puelén, La Pampa, Argentina"
+ },
+ "QCP": {
+  "id": 90,
+  "codigo": "QCP",
+  "provincia": "NEUQUEN",
+  "centroide": "NEUQUEN",
+  "lon": -68.0591741,
+  "lat": -38.9519679,
+  "match": "Neuquén, Municipio de Neuquén, Departamento Confluencia, Neuquén, Argentina"
+ },
+ "QZA": {
+  "id": 91,
+  "codigo": "QZA",
+  "provincia": "NEUQUEN",
+  "centroide": "ZAPALA",
+  "lon": -70.0668573,
+  "lat": -38.9006215,
+  "match": "Municipio de Zapala, Departamento Zapala, Neuquén, Q8340, Argentina"
+ },
+ "RBA": {
+  "id": 92,
+  "codigo": "RBA",
+  "provincia": "RIO NEGRO",
+  "centroide": "BARILOCHE",
+  "lon": -71.3101474,
+  "lat": -41.1334781,
+  "match": "San Carlos de Bariloche, Municipio de San Carlos de Bariloche, Departamento Bari"
+ },
+ "RCP": {
+  "id": 93,
+  "codigo": "RCP",
+  "provincia": "RIO NEGRO",
+  "centroide": "VIEDMA",
+  "lon": -62.994722,
+  "lat": -40.8084274,
+  "match": "Municipio de Viedma, Departamento Adolfo Alsina, Río Negro, Argentina"
+ },
+ "RGR": {
+  "id": 94,
+  "codigo": "RGR",
+  "provincia": "RIO NEGRO",
+  "centroide": "GENERAL ROCA",
+  "lon": -67.5754674,
+  "lat": -39.0268342,
+  "match": "Municipio de General Roca, Departamento General Roca, Río Negro, Argentina"
+ },
+ "RIJ": {
+  "id": 95,
+  "codigo": "RIJ",
+  "provincia": "RIO NEGRO",
+  "centroide": "ING. JACOBACCI",
+  "lon": -69.5526771,
+  "lat": -41.3298642,
+  "match": "Cartel de Ing. Jacobacci, Rogelio Cortizo, Malvinas, Ingeniero Jacobacci, Munici"
+ },
+ "RRC": {
+  "id": 96,
+  "codigo": "RRC",
+  "provincia": "RIO NEGRO",
+  "centroide": "RIO COLORADO",
+  "lon": -64.0957548,
+  "lat": -38.9908428,
+  "match": "Municipio de Río Colorado, Departamento Pichi Mahuida, Río Negro, Argentina"
+ },
+ "RSA": {
+  "id": 97,
+  "codigo": "RSA",
+  "provincia": "RIO NEGRO",
+  "centroide": "S.A. OESTE",
+  "lon": -64.9527556,
+  "lat": -40.7375328,
+  "match": "Aeroposta Argentina, San Antonio Oeste, Departamento San Antonio, Río Negro, Arg"
+ },
+ "SCE": {
+  "id": 98,
+  "codigo": "SCE",
+  "provincia": "SANTA FE",
+  "centroide": "CERES",
+  "lon": -61.9451954,
+  "lat": -29.8819399,
+  "match": "Municipio de Ceres, Departamento San Cristóbal, Santa Fe, Argentina"
+ },
+ "SCG": {
+  "id": 99,
+  "codigo": "SCG",
+  "provincia": "SANTA FE",
+  "centroide": "CAÑADA DE GOMEZ",
+  "lon": -61.3905125,
+  "lat": -32.8234448,
+  "match": "Cañada de Gómez, Municipio de Cañada de Gómez, Departamento Iriondo, Santa Fe, S"
+ },
+ "SCP": {
+  "id": 100,
+  "codigo": "SCP",
+  "provincia": "SANTA FE",
+  "centroide": "SANTA FE",
+  "lon": -60.6428557,
+  "lat": -31.6474914,
+  "match": "Santa Fe Capital, Departamento La Capital, Santa Fe, S3000, Argentina"
+ },
+ "SRA": {
+  "id": 101,
+  "codigo": "SRA",
+  "provincia": "SANTA FE",
+  "centroide": "RAFAELA",
+  "lon": -61.4916758,
+  "lat": -31.2526923,
+  "match": "Rafaela, Municipio de Rafaela, Departamento Castellanos, Santa Fe, S2300, Argent"
+ },
+ "SRE": {
+  "id": 102,
+  "codigo": "SRE",
+  "provincia": "SANTA FE",
+  "centroide": "VERA",
+  "lon": -60.2158054,
+  "lat": -29.4577916,
+  "match": "Vera, Municipio de Vera, Departamento Vera, Santa Fe, 3550, Argentina"
+ },
+ "SRO": {
+  "id": 103,
+  "codigo": "SRO",
+  "provincia": "SANTA FE",
+  "centroide": "ROSARIO",
+  "lon": -60.6617024,
+  "lat": -32.9593609,
+  "match": "Rosario, Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, S20"
+ },
+ "SSJ": {
+  "id": 104,
+  "codigo": "SSJ",
+  "provincia": "SANTA FE",
+  "centroide": "SAN JUSTO",
+  "lon": -60.5933274,
+  "lat": -30.7890881,
+  "match": "San Justo, Municipio de San Justo, Departamento San Justo, Santa Fe, Argentina"
+ },
+ "SVC": {
+  "id": 105,
+  "codigo": "SVC",
+  "provincia": "SANTA FE",
+  "centroide": "VILLA CONSTITUCIÓN",
+  "lon": -60.3298225,
+  "lat": -33.227206,
+  "match": "Municipio de Villa Constitución, Departamento Constitución, Santa Fe, Argentina"
+ },
+ "SVT": {
+  "id": 106,
+  "codigo": "SVT",
+  "provincia": "SANTA FE",
+  "centroide": "VENADO TUERTO",
+  "lon": -61.9686068,
+  "lat": -33.7455871,
+  "match": "Venado Tuerto, Municipio de Venado Tuerto, Departamento General López, Santa Fe,"
+ },
+ "TCO": {
+  "id": 107,
+  "codigo": "TCO",
+  "provincia": "TUCUMAN",
+  "centroide": "CONCEPCION",
+  "lon": -65.5927221,
+  "lat": -27.3459249,
+  "match": "Municipio de Concepción, Departamento Chicligasta, Tucumán, T4174, Argentina"
+ },
+ "TCP": {
+  "id": 108,
+  "codigo": "TCP",
+  "provincia": "TUCUMAN",
+  "centroide": "TUCUMAN",
+  "lon": -65.2038133,
+  "lat": -26.8303703,
+  "match": "San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina"
+ },
+ "TLA": {
+  "id": 109,
+  "codigo": "TLA",
+  "provincia": "TUCUMAN",
+  "centroide": "LAMADRID",
+  "lon": -65.2468972,
+  "lat": -27.6450818,
+  "match": "Municipio de Lamadrid, Departamento Graneros, Tucumán, T4159, Argentina"
+ },
+ "UCP": {
+  "id": 110,
+  "codigo": "UCP",
+  "provincia": "CHUBUT",
+  "centroide": "TRELEW",
+  "lon": -65.3094407,
+  "lat": -43.2531242,
+  "match": "Trelew, Municipio de Trelew, Departamento Rawson, Chubut, U9100, Argentina"
+ },
+ "UCR": {
+  "id": 111,
+  "codigo": "UCR",
+  "provincia": "CHUBUT",
+  "centroide": "COMODORO RIVADAVIA",
+  "lon": -67.4752615,
+  "lat": -45.8632024,
+  "match": "Municipio de Comodoro Rivadavia, Departamento Escalante, Chubut, U9000, Argentin"
+ },
+ "UES": {
+  "id": 112,
+  "codigo": "UES",
+  "provincia": "CHUBUT",
+  "centroide": "ESQUEL",
+  "lon": -71.3216508,
+  "lat": -42.9173055,
+  "match": "Municipio de Esquel, Departamento Futaleufú, Chubut, U9200, Argentina"
+ },
+ "WCP": {
+  "id": 113,
+  "codigo": "WCP",
+  "provincia": "CORRIENTES",
+  "centroide": "CORRIENTES",
+  "lon": -58.8311982,
+  "lat": -27.4687004,
+  "match": "Corrientes, Departamento Capital, Corrientes, Argentina"
+ },
+ "WES": {
+  "id": 114,
+  "codigo": "WES",
+  "provincia": "CORRIENTES",
+  "centroide": "ESQUINA",
+  "lon": -59.5340904,
+  "lat": -30.0170807,
+  "match": "Municipio de Esquina, Departamento Esquina, Corrientes, Argentina"
+ },
+ "WGO": {
+  "id": 115,
+  "codigo": "WGO",
+  "provincia": "CORRIENTES",
+  "centroide": "GOYA",
+  "lon": -59.2649825,
+  "lat": -29.1444046,
+  "match": "Municipio de Goya, Departamento Goya, Corrientes, W3450, Argentina"
+ },
+ "WMC": {
+  "id": 116,
+  "codigo": "WMC",
+  "provincia": "CORRIENTES",
+  "centroide": "MONTE CASEROS",
+  "lon": -57.6294418,
+  "lat": -30.2496832,
+  "match": "Municipio de Monte Caseros, Departamento Monte Caseros, Corrientes, 3220, Argent"
+ },
+ "WPL": {
+  "id": 117,
+  "codigo": "WPL",
+  "provincia": "CORRIENTES",
+  "centroide": "PASO DE LOS LIBRES",
+  "lon": -57.0861369,
+  "lat": -29.7136574,
+  "match": "Municipio de Paso de los Libres, Departamento Paso de los Libres, Corrientes, Ar"
+ },
+ "YCP": {
+  "id": 118,
+  "codigo": "YCP",
+  "provincia": "JUJUY",
+  "centroide": "JUJUY",
+  "lon": -64.835172,
+  "lat": -24.2215739,
+  "match": "Jujuy, Mitre, Lote Miraflores, Municipio de La Esperanza, Departamento San Pedro"
+ },
+ "YHU": {
+  "id": 119,
+  "codigo": "YHU",
+  "provincia": "JUJUY",
+  "centroide": "HUMAHUACA",
+  "lon": -65.3487763,
+  "lat": -23.2040265,
+  "match": "Municipio de Humahuaca, Departamento Humahuaca, Jujuy, Y4630, Argentina"
+ },
+ "YLE": {
+  "id": 120,
+  "codigo": "YLE",
+  "provincia": "JUJUY",
+  "centroide": "LEDESMA",
+  "lon": -64.7911543,
+  "lat": -23.8306711,
+  "match": "Ledesma, Libertador General San Martín, Municipio de Libertador General San Mart"
+ },
+ "ZCO": {
+  "id": 121,
+  "codigo": "ZCO",
+  "provincia": "SANTA CRUZ",
+  "centroide": "CALETA OLIVIA",
+  "lon": -67.5175069,
+  "lat": -46.442117,
+  "match": "Caleta Olivia, Mercado de la Ciudad, Caleta Olivia, Deseado, Santa Cruz, 9011, A"
+ },
+ "ZCP": {
+  "id": 122,
+  "codigo": "ZCP",
+  "provincia": "SANTA CRUZ",
+  "centroide": "RIO GALLEGOS",
+  "lon": -69.105804,
+  "lat": -51.6268852,
+  "match": "Río Gallegos, Güer Aike, Santa Cruz, Argentina"
+ },
+ "ZEL": {
+  "id": 123,
+  "codigo": "ZEL",
+  "provincia": "SANTA CRUZ",
+  "centroide": "EL CALAFATE",
+  "lon": -72.2737216,
+  "lat": -50.3387375,
+  "match": "Municipio de El Calafate, Lago Argentino, Santa Cruz, Argentina"
+ },
+ "BGV": {
+  "id": 15,
+  "codigo": "BGV",
+  "provincia": "BUENOS AIRES",
+  "centroide": "GRAL. VILLEGAS",
+  "lon": -63.0148473,
+  "lat": -35.032594,
+  "match": "General Villegas, Partido de General Villegas, Buenos Aires, 6230, Argentina"
+ }
+}
