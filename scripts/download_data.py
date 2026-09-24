@@ -128,7 +128,13 @@ def afcp(destino: Path = DATA_RAW / "afcp_provincias.csv", desde: tuple[int, int
     for a, m in meses:
         if (a, m) in tengo:
             continue
-        r = requests.get(AFCP.format(ym=f"{a}{m:02d}"), headers=AFCP_UA, timeout=60)
+        try:
+            r = requests.get(AFCP.format(ym=f"{a}{m:02d}"), headers=AFCP_UA, timeout=(15, 60))
+        except requests.RequestException as e:
+            # el sitio no responde desde algunas redes (por ejemplo, los servidores de GitHub): se sigue con lo que haya
+            # en caché y el cemento de los meses que falten vuelve a su driver nacional
+            print(f"  la AFCP no responde ({type(e).__name__}); se sigue sin los meses nuevos")
+            break
         pedidos += 1
         time.sleep(pausa)
         if r.status_code == 404:
@@ -177,7 +183,10 @@ def main() -> None:
         bajar(f"{WFS_OBSERV}?service=WFS&version=1.0.0&request=GetFeature&typeName={quote(capa)}&maxFeatures=20000&outputFormat=application%2Fjson",
               DATA_RAW / nombre, timeout=1800, verify=bundle)
     print("consumo de cemento por provincia (AFCP):")
-    afcp()
+    try:
+        afcp()
+    except requests.RequestException as e:
+        print(f"  la AFCP falló ({type(e).__name__}); el cemento queda con su driver nacional")
     print("listo")
 
 
