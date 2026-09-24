@@ -990,7 +990,7 @@ anio,grupo,producto,tipo,fuente,factor_nacional
 2021,carnes,caprinos,plano,,1.0
 2021,combustibles,biodiesel,escenario driver,driver gasoil,1.0166400849223263
 2021,combustibles,bioetanol,escenario driver,driver nafta,0.9563705331759662
-2021,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.028867354965733
+2021,combustibles,diesel,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",1.0288673549657328
 2021,combustibles,nafta,medido destino,"Secretaría de Energía, volúmenes por estación de servicio (Res. 1104/04)",0.9447146347256382
 2021,combustibles,gas,plano,,1.0
 2021,combustibles,lubricantes,escenario driver,driver gasoil,1.016640084922326
@@ -1201,7 +1201,7 @@ anio,grupo,producto,tipo,fuente,factor_nacional
 2022,semiterminados,acero,escenario driver,driver siderurgia,0.9722057121012059
 2022,semiterminados,alum. elab.,escenario driver,driver ipi,1.0446097286468154
 2022,semiterminados,aluminio primario,escenario driver,driver ipi,1.0446097286468154
-2022,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",1.019166724325498
+2022,semiterminados,cemento,escenario driver,driver cemento,0.946488194395546
 2022,semiterminados,caucho,escenario driver,driver ipi,1.0446097286468154
 2022,semiterminados,ind. maderera,escenario driver,driver isac,1.0027639127398857
 2022,semiterminados,papel,escenario driver,driver ipi,1.0446097286468154
@@ -1313,7 +1313,7 @@ anio,grupo,producto,tipo,fuente,factor_nacional
 2023,semiterminados,acero,escenario driver,driver siderurgia,0.9537405206681485
 2023,semiterminados,alum. elab.,escenario driver,driver ipi,1.0262132585591301
 2023,semiterminados,aluminio primario,escenario driver,driver ipi,1.0262132585591301
-2023,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",0.9879679726844269
+2023,semiterminados,cemento,escenario driver,driver cemento,0.9567934584646709
 2023,semiterminados,caucho,escenario driver,driver ipi,1.02621325855913
 2023,semiterminados,ind. maderera,escenario driver,driver isac,0.9726708265281798
 2023,semiterminados,papel,escenario driver,driver ipi,1.02621325855913
@@ -1425,7 +1425,7 @@ anio,grupo,producto,tipo,fuente,factor_nacional
 2024,semiterminados,acero,escenario driver,driver siderurgia,0.7385118822751752
 2024,semiterminados,alum. elab.,escenario driver,driver ipi,0.9292655461463357
 2024,semiterminados,aluminio primario,escenario driver,driver ipi,0.9292655461463358
-2024,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",0.7512594616051786
+2024,semiterminados,cemento,escenario driver,driver cemento,0.945121804669275
 2024,semiterminados,caucho,escenario driver,driver ipi,0.9292655461463357
 2024,semiterminados,ind. maderera,escenario driver,driver isac,0.7028331325901149
 2024,semiterminados,papel,escenario driver,driver ipi,0.9292655461463355
@@ -1537,7 +1537,7 @@ anio,grupo,producto,tipo,fuente,factor_nacional
 2025,semiterminados,acero,escenario driver,driver siderurgia,0.789124363841277
 2025,semiterminados,alum. elab.,escenario driver,driver ipi,0.9436682512386567
 2025,semiterminados,aluminio primario,escenario driver,driver ipi,0.9436682512386568
-2025,semiterminados,cemento,medido destino,"AFCP, consumo de cemento por provincia (desde 2021; 2018-2021 con driver cemento)",0.7780341306911299
+2025,semiterminados,cemento,escenario driver,driver cemento,0.9803710522780928
 2025,semiterminados,caucho,escenario driver,driver ipi,0.9436682512386567
 2025,semiterminados,ind. maderera,escenario driver,driver isac,0.7471511707252148
 2025,semiterminados,papel,escenario driver,driver ipi,0.9436682512386567
@@ -1596,7 +1596,7 @@ anio,grupo,producto,tipo,fuente,factor_nacional
 2026,mineria extraccion de arcillas y caolin,pirofilita,plano,,1.0
 2026,mineria extraccion de arcillas y caolin,tot. arcilla y caolin cam.,plano,,1.0
 2026,"mineria extraccion de arenas, canto rod. y trit. petr.",arena contr.,escenario driver,driver isac,0.730570871280468
-2026,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,3.9108144546855397
+2026,"mineria extraccion de arenas, canto rod. y trit. petr.",arena silicea,escenario driver,driver arena_t,3.991803150361331
 2026,"mineria extraccion de arenas, canto rod. y trit. petr.",canto rodado,escenario driver,driver isac,0.730570871280468
 2026,"mineria extraccion de arenas, canto rod. y trit. petr.",dolomita triturada camion,plano,,1.0
 2026,"mineria extraccion de arenas, canto rod. y trit. petr.",trit. petreos camion,escenario driver,driver isac,0.730570871280468
